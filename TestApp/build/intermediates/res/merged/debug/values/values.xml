@@ -1,0 +1,2124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_other_fundraising.xml -->
+    <eat-comment/>
+    <string-array name="bag_and_tag">
+        <item>fragment_pager_item_no_image</item>
+        <item>Bagging and Tagging</item>
+        <item>While in the past your robot had to be crated up, in recent years a new procedure for sealing
+            away your robot has been unveiled. All official events with the exception of the Championship are
+            "Bag and Tag" events, meaning that your robot must be suffocated by a giant bag on the last day
+            of Build Season. More information is available in the
+            &lt;a href="http://frc-manual.usfirst.org/viewItem/8">administrative manual&lt;/a>.</item>
+        <item/>
+    </string-array>
+    <string-array name="bag_and_tagSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Embolsado y Etiquetado</item>
+        <item>Entras en años pasados su robot se tenía que guardar en un contenedor, en años recientes
+nos han enseñado un nuevo procedimiento para empaquetar robot. Todos los eventos
+oficiales, con excepción del campeonato, son eventos ‘embolsado y etiquetado’, lo cual
+significa que su robot debe estar sofocado por una bolsa enorme el último día de la
+temporada de construcción.</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_departments_programming.xml -->
+    <eat-comment/>
+    <string-array name="beginning_wiring">
+        <item>fragment_pager_item_no_image</item>
+        <item>Starting Electrical</item>
+        <item>Although it may seem absurd to start designing your electrical configuration without a
+            complete robot, you\'re going to want to have the main board designed and built early so
+            it can be installed on the chassis. Try to have all of your main electrical components in
+            one place, so that parts can be swapped out if need be.
+            &lt;br>Even though the electrical system is often designed to fit in a small, compact space
+            it is important to not get carried away and create an impermeable board. Every electrical
+            component on your robot will generate heat, and the last thing your team needs is part of
+            the robot shutting down during competition from overheating. Consider ventilation when
+            designing your system!
+            &lt;br>Labelling parts of the system is also a critically important step; one which can
+            never be started too early. If your team\'s main electrician is absent on competition day,
+            would your team be able to fix any problems that arose?</item>
+        <item/>
+    </string-array>
+    <string-array name="beginning_wiringSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Empezando con la aparte Eléctrica</item>
+        <item>Aunque pueda parecer absurdo empezar a diseñar su configuración eléctrica sin haber completado
+el robot, van a querer tener diseñado en tablero principal antes para poder instalarlo en el chasis.
+Intenten tener todos sus componentes eléctricos principales en un solo lugar, para poder cambiar
+las piezas si es necesario. A pesar de que el sistema eléctrico está diseñado para caber en un espacio
+pequeño y compacto, es importante no crear un tablero que sea impermeable. Todos los
+componentes eléctricos de su robot generan calor, y la última cosa que necesitan durante la
+competencia es que el robot por sobre-calentamiento. Consideren la ventilación cuando estén
+diseñando su sistema! Etiquetar las partes del sistema también es crítico en este paso; que nunca es
+demasiado temprano para empezar. Si el electricista principal del equipo esta ausenté el día de la
+competencia, ¿su equipo sería capaz de arreglar cualquier problema que pueda surgir?</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_competitions_compintro.xml -->
+    <eat-comment/>
+    <string-array name="chairmans_speech">
+        <item>fragment_pager_item_no_image</item>
+        <item>The Speech</item>
+        <item>Although teams can probably talk about how they spread the mission of FIRST for hours,
+            teams are only given a short five minute time period to tell judges all about how they
+            impact their community. After the five minute presentation time, teams will have a five
+            minute question answer session. Teams must send in up to three representatives - members
+            or mentors.
+            &lt;br>&lt;br>The Chairman\'s presentation can seem very scary but here are some tips to
+            keep in mind while creating and performing your presentation:
+            &lt;br>&lt;br>•\tDon\'t let the judges emotions get to you. They have had long days of
+            speeches and are probably very tired and bored. Don\'t let this get to you while presenting.
+            &lt;br>&lt;br>•\tThe room may be very small; you should bring only what is necessary.
+            &lt;br>&lt;br>•\tExactly how much time you have depends on the judges. Some judges may start
+            the clock when you open the door.</item>
+        <item/>
+    </string-array>
+    <string-array name="chairmans_speechSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>El Discurso</item>
+        <item>A pesar de que los equipos son capaces de hablar por horas sobre como han difundido la
+misión de FIRST, sólo pueden hablar por cinco minutos con los jueces sobre como han
+impactado a su comunidad. Después de los cinco minutos de presentación, los equipos
+tendrán cinco minutos para una sesión de pregunta y respuesta. Los equipos pueden mandar
+hasta tres representantes - tanto alumnos como mentores. La presentación del Chairman’s
+puede provocar algo de miedo, pero aquí hay un par de consejos para tomar en cuenta
+durante su presentación: No dejen que las emociones de los jueces los afecten. Han tenido
+un día muy pesado y muy probablemente estén cansados y aburridos. No dejen que esto les
+afecte mientras presentan. El cuarto puede ser pequeño; solo lleven lo necesario.
+Exactamente cuanto tiempo les queda depende de los jueces. Algunos jueces empiezan a
+contar en cuanto abran la puerta.</item>
+        <item/>
+    </string-array>
+    <string-array name="chairmans_video">
+        <item>fragment_pager_item_no_image</item>
+        <item>The Video</item>
+        <item>The Chairman\'s video can be no longer than three minutes nor shorter than one. The
+            Chairman\'s video is mandatory in order to compete for the award. Before judges make
+            their final decision as to who wins between a few final teams, they watch these videos.
+            The video is very important because it is the last thing the judges will remember. When
+            a team wins, the video is broadcasted to the rest of the teams on the big screen at regional
+            or district events.</item>
+        <item/>
+    </string-array>
+    <string-array name="chairmans_videoSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>El Video</item>
+        <item>El video del Chairman’s no debe durar más de tres minutos ni menos de uno. El video del
+Chairman’s es obligatorio para poder concursar por el premio. Antes de que los jueces tomen
+la decisión final, ven los videos. El video es importante porque es la última cosa que los
+jueces van a recordar. Cuando un equipo gana, el video es mostrado al resto de los equipos
+en la pantalla grande en el evento regional o distrital.</item>
+        <item/>
+    </string-array>
+    <string-array name="chairmans_writing">
+        <item>fragment_pager_item_no_image</item>
+        <item>The Written Portion</item>
+        <item>The written piece of Chairman’s has two main parts, the essay and the executive
+            summary. The essay is a 10,000 character written explanation of how your team spreads
+            the mission of FIRST. At first 10,000 characters can seem like a lot, but you will most
+            likely have to shrink your essay in order to meet these requirements. While writing your
+            essay do not worry about word count. You will be better off writing your essay and them
+            combining and removing sentences. It\'s important that you start your essay early that way
+            your speech and video can play off of it.
+            &lt;br>The executive summary is a series of questions that you will have to answer. The
+            majority of the questions have a 500 character word limit. You will also include your
+            team name, number and sponsors. These short answers have to do with how your team has
+            spread FIRST, and how FIRST has impacted your team. Along with the written pieces, you
+            will need to submit four photos at the same time. These photos are to show judges how
+            you’ve spread FIRST. These four photos can be no more than 1.0 MB of memory.</item>
+        <item/>
+    </string-array>
+    <string-array name="chairmans_writingSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>La Porción  Escrita</item>
+        <item>La porción escrita del Chairman’s tiene dos partes, el ensayo y el Executive Summary. El
+ensayo es una explicación de 10,000 caracteres sobre como su equipo comparte la misión
+de FIRST. Al principio, 10,000 caracteres puede parecer mucho, pero la mayoría de ustedes
+va a necesitar reducir su ensayo para cumplir el requerimiento. Cuando estén escribiendo su
+ensayo, no se preocupen por la cuenta de caracteres. Les conviene primero escribir el
+ensayo y luego combinar y quitar oraciones. Es importante que empiecen en ensayo con
+tiempo, así pueden basar su presentación y su video sobre el ensayo. El Executive Summary
+es una serie de preguntas que necesitaran contestar. La mayoría de las preguntas tienen un
+límite de 500 caracteres. También van a incluir el nombre de su equipo, su numero y sus
+patrocinadores. Estas respuestas cortas tienen que ver con como su equipo ha difundido a
+FIRST, y como FIRST ha impactado a su equipo. Junto con los componentes escritos, van a
+tener que mandar cuatro fotos al mismo tiempo. Estas fotos sirven para mostrarle a los
+jueces como han difundido a FIRST. Las cuatro fotos no deben ocupar mas de 1.0 MB de
+memoria.</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_departments_electrical.xml -->
+    <eat-comment/>
+    <string-array name="chassis_building">
+        <item>fragment_pager_item_no_image</item>
+        <item>Building the Chassis</item>
+        <item>Although you may not have a completely finalized robot design at this point in time, it is
+            extremely important that you begin building the chassis. The drive-train is the heart of almost
+            every robot design out there, and it is important to get a driving robot as soon as possible. Not
+            only will having a driving robot guarantee you some level of success on the field, without a
+            frame the components and modules you are prototyping will have nowhere to go!</item>
+        <item/>
+    </string-array>
+    <string-array name="chassis_buildingSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Construcción del Chasis</item>
+        <item>Aunque puede que no hayan finalizado el diseño del robot en este momento, es muy importante
+que empiezan con la construcción del chasis. El drive-train es el corazón de casi todos los diseños de
+robot que existen, y es importante tener un robot que se pues manejar lo antes posible. El tener un
+robot que se pueda manejar lo antes posible no sólo te garantiza cierto éxito en la cancha, sin un
+armazón, los componentes y módulos de los cuales están haciendo prototipos no van a tener un
+lugar en donde ir.</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_competitions_compintro.xml -->
+    <eat-comment/>
+    <string-array name="comp_intro">
+        <item>fragment_pager_item_no_image</item>
+        <item>Introduction to the Competition</item>
+        <item>This is it. Six weeks (and possibly more) have prepared you and your robot, and it all comes down to the Competition.
+            However, in order to arrive to the tournament feeling more ready than ever, there are a few things you may have to prepare
+            for first. Now depending on which competition system your region follows (Regional or District Events), some rules for the
+            rankings and qualifying spots are different, but for the most part, ideas stay the same no matter what system your region runs.
+            This guide will give you everything you need to know for those, provided you also give the game manual for that year an in-depth
+            read. Generally speaking, competitions can be divided into three “main parts,” that are very distinct from one another:\n\n
+            Preparation\n\nQualifying Matches\n\nElimination Matches\n\nDuring your 2-3 day competition, each of these stages are equally
+            important to your team’s success, and it is critical that you know what to expect going in. Each of these parts have a
+            special section devoted to them, with sub-sections highlighting the differences between Regional and District events
+            to give an in-depth explanation of everything a team needs to know. Finally, an explanation of competition structure
+            and the different levels of competition procession all the way to the World Championships is provided.
+</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_departments_mechanical.xml -->
+    <eat-comment/>
+    <string-array name="contentname1">
+        <item>fragment_pager_item_no_image</item>
+        <item>contentnamegoeshere</item>
+        <item>contentName1 Lorem ipsum dolor sit amet, eros feugiat accommodare pro in, duo an vocent blandit vulputate. Maiorum ancillae appetere ei est. Sed eu elit ferri tincidunt, meliore veritus per ea. Ea est nihil noster lobortis, fierent imperdiet mel ut, in melius viderer has.
+Aeterno recteque sit id. Sit cu veniam omittam, ubique scripta eleifend ut nec. Dicant insolens incorrupte in per, eos et vide aeque insolens. Gubergren conclusionemque pro at, id per solum sadipscing, et nominavi scripserit nec.
+Cu nibh eligendi accommodare nec, cu suscipit delectus qui. Dicam iuvaret et mea. An everti veritus constituto eam, ne lucilius expetendis eloquentiam has, id elit dolor scaevola per. Quo labores aliquando no, sed te vide impedit prodesset. Lorem mucius labores mei ut, homero adversarium at sea. Ea sea quando debitis phaedrum, quodsi fabulas disputando ne duo, nisl populo inimicus usu at.
+Augue accusam ad vix, te quaeque maiorum torquatos duo, minim democritum eum et. Cu feugait placerat vel, nobis graeci recteque nec id. Harum mundi interesset pri id. Quo ea diam scripta patrioque, an mea accusam consequat. Ea etiam appetere sed, cu viderer splendide quo. Ut vel convenire deterruisset, gubergren scribentur his id.
+Has ei vidit labore vidisse. Vel ut quod harum. Ea pri blandit legendos, ius graeci impetus ornatus cu. Ne zril veritus deserunt has. At laudem accusam cotidieque qui.</item>
+        <item/>
+    </string-array>
+    <string-array name="contentname1s">
+        <item>fragment_pager_item_no_image</item>
+        <item>contentnamegoeshere</item>
+        <item>Sacontentname1sliendo del Kickoff, lo primero que su equipo tiene que hacer es empezar con el brainstorming.
+Ninguna idea es mala, pues aquí es el momento para pensar en todo tipo de diseño, por muy loco
+que sea. Durante este tiempo, deben empezar a planear una estrategia y decidir cómo y qué
+quieren que haga su robot.</item>
+        <item/>
+    </string-array>
+    <string-array name="contentname2">
+        <item>fragment_pager_item_no_image</item>
+        <item>contentnamegoeshere</item>
+        <item>contentname2Lorem ipsum dolor sit amet, eros feugiat accommodare pro in, duo an vocent blandit vulputate. Maiorum ancillae appetere ei est. Sed eu elit ferri tincidunt, meliore veritus per ea. Ea est nihil noster lobortis, fierent imperdiet mel ut, in melius viderer has.
+Aeterno recteque sit id. Sit cu veniam omittam, ubique scripta eleifend ut nec. Dicant insolens incorrupte in per, eos et vide aeque insolens. Gubergren conclusionemque pro at, id per solum sadipscing, et nominavi scripserit nec.
+Cu nibh eligendi accommodare nec, cu suscipit delectus qui. Dicam iuvaret et mea. An everti veritus constituto eam, ne lucilius expetendis eloquentiam has, id elit dolor scaevola per. Quo labores aliquando no, sed te vide impedit prodesset. Lorem mucius labores mei ut, homero adversarium at sea. Ea sea quando debitis phaedrum, quodsi fabulas disputando ne duo, nisl populo inimicus usu at.
+Augue accusam ad vix, te quaeque maiorum torquatos duo, minim democritum eum et. Cu feugait placerat vel, nobis graeci recteque nec id. Harum mundi interesset pri id. Quo ea diam scripta patrioque, an mea accusam consequat. Ea etiam appetere sed, cu viderer splendide quo. Ut vel convenire deterruisset, gubergren scribentur his id.
+Has ei vidit labore vidisse. Vel ut quod harum. Ea pri blandit legendos, ius graeci impetus ornatus cu. Ne zril veritus deserunt has. At laudem accusam cotidieque qui.</item>
+        <item/>
+    </string-array>
+    <string-array name="contentname2s">
+        <item>fragment_pager_item_no_image</item>
+        <item>contentnamegoeshere</item>
+        <item>contentname2sAntes de pensar como lograr que el robot pueda llevar a cabo el reto del juego, es importante
+decidir que es lo que quiere lograr el equipo. Van a necesitar una plan de acción antes de empezar a
+diseñar su robot. Para poder diseñar el robot basándose en la mejor estrategia, KING TeC organiza
+una simulación del juego, utilizando jugadores humanos en vez de robots, inmediatamente
+después del Kickoff. La simulación nos ayuda a encontrar estrategias en las cuales no habríamos
+pensado.</item>
+        <item/>
+    </string-array>
+    <string-array name="contentname3">
+        <item>fragment_pager_item_no_image</item>
+        <item>contentnamegoeshere</item>
+        <item>contentname3Lorem ipsum dolor sit amet, eros feugiat accommodare pro in, duo an vocent blandit vulputate. Maiorum ancillae appetere ei est. Sed eu elit ferri tincidunt, meliore veritus per ea. Ea est nihil noster lobortis, fierent imperdiet mel ut, in melius viderer has.
+Aeterno recteque sit id. Sit cu veniam omittam, ubique scripta eleifend ut nec. Dicant insolens incorrupte in per, eos et vide aeque insolens. Gubergren conclusionemque pro at, id per solum sadipscing, et nominavi scripserit nec.
+Cu nibh eligendi accommodare nec, cu suscipit delectus qui. Dicam iuvaret et mea. An everti veritus constituto eam, ne lucilius expetendis eloquentiam has, id elit dolor scaevola per. Quo labores aliquando no, sed te vide impedit prodesset. Lorem mucius labores mei ut, homero adversarium at sea. Ea sea quando debitis phaedrum, quodsi fabulas disputando ne duo, nisl populo inimicus usu at.
+Augue accusam ad vix, te quaeque maiorum torquatos duo, minim democritum eum et. Cu feugait placerat vel, nobis graeci recteque nec id. Harum mundi interesset pri id. Quo ea diam scripta patrioque, an mea accusam consequat. Ea etiam appetere sed, cu viderer splendide quo. Ut vel convenire deterruisset, gubergren scribentur his id.
+Has ei vidit labore vidisse. Vel ut quod harum. Ea pri blandit legendos, ius graeci impetus ornatus cu. Ne zril veritus deserunt has. At laudem accusam cotidieque qui.</item>
+        <item/>
+    </string-array>
+    <string-array name="contentname3s">
+        <item>fragment_pager_item_no_image</item>
+        <item>contentnamegoeshere</item>
+        <item>contentname3sEntender las reglas del nuevo juego es esencial para el proceso de diseño. Todos los miembros del
+equipo deberían leer lar reglas del juego por lo menos una vez, y nombrar un Rule Master (Amo de
+las Reglas), alguien en su equipo a quien puedan usar como referencia cuando surgen una dudas
+sobre las reglas.</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_competitions_regionals.xml -->
+    <eat-comment/>
+    <string-array name="drive_practice">
+        <item>fragment_pager_item_no_image</item>
+        <item>Practicing Driving</item>
+        <item>Driving the robot at competition is an incredibly stressful job, and one that no amount
+            of practice can fully prepare you for. In addition, no two robots are exactly the same, so
+            experience driving from previous years will not always transfer. By Week 5 your team should
+            have enough of a robot working to at least be driving, and ideally your team is completely
+            done building and the robot is programmed.
+            &lt;br>By setting up a makeshift field your drivers should be able to get a feel for both
+            the robot and the game. If your team has old robots available, try pitting the new one
+            against a ragtag defense. This will give you an idea of what your robot is and isn\'t capable
+            of doing. Don\'t forget to try and practice scoring!</item>
+        <item/>
+    </string-array>
+    <string-array name="drive_practiceSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Práctica de Manejo</item>
+        <item>Manejaron robots en la competencia en su trabajo increíblemente estresante y para el cual,
+sin importar las horas de práctica, nunca te vas a poder preparar completamente. Además,
+no hay dos robots que sean exactamente iguales, así que la experiencia de manejar robots
+en años pasados no siempre se transfiere. Para las Semana 5, su equipo debería tener el
+robot los suficientemente armado como para poder manejarlo, e idealmente, su equipo
+debería ya haber acabado con la construcción y programación del robot. Construyendo una
+simulación de la cancha, sus conductores deberían poder aprender cómo manejar el robot y
+cómo funciona el juego. Si tienen robots viejos disponibles, intenten hacerlos competir contra
+el robot nuevo. El hacer esto, les dará una muy buena idea de qué es lo que su robot es
+capaz de hacer. No olviden intentar y practicar anotaciones.</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_other_bagandtag.xml -->
+    <eat-comment/>
+    <string-array name="early_programming">
+        <item>fragment_pager_item_no_image</item>
+        <item>Getting Started Programming</item>
+        <item>In order to test your robot, you need to be able to control it. Start with the basics,
+            and begin programming one subsystem at a time. It is important to remember that you
+            shouldn\'t worry about perfecting the code at this time; save the fine-tuning and control
+            loops for later. As long as you can control the subsystems at this point, and are able to
+            read from any sensors that you might have, you\'re doing fine.</item>
+        <item/>
+    </string-array>
+    <string-array name="early_programmingSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Programación Inicial</item>
+        <item>Para poder probar su robot, necesitan poder controlarlo. Empiezan con lo básico, y empeoren
+programando un subsistema a la vez. Es importante recordar que no es importante que no deben
+preocuparse por perfeccionar el código en este momento, guarden la afinación y vueltas de control
+para el final. Por ahora, mientras puedan controlar el subsistema y sean capaces de obtener lecturas
+de los sensores que estén usando van bien.</item>
+        <item/>
+    </string-array>
+    <string-array name="finishing_electrical">
+        <item>fragment_pager_item_no_image</item>
+        <item>Finishing Electrical</item>
+        <item>This is the time for your electrical department to have finished your wiring. It is
+            imperative that it is done so that your team will have as much time as possible for driving practice.
+            Some tips for a successful season are:
+            &lt;br>&lt;br>•\tDouble check all wire connections and make sure that they are
+            secure, even one wire coming loose could mean your entire robot shutting off.
+            &lt;br>&lt;br>•\tMake sure your power distribution board has fuses of the proper
+            amperage placed in their respective slots to prevent damaging any electrical components.
+            &lt;br>&lt;br>•\tIt is strongly recommended that all points of connection are
+            labeled from one point to another, this can save huge amounts of time when trying to
+            diagnose electrical problems.
+            &lt;br>&lt;br>•\tIf nothing else, make sure your electrical is neat and tidy in
+            its final form. It looks more impressive to the judges, and makes fixing things way more easy.</item>
+        <item/>
+    </string-array>
+    <string-array name="finishing_electricalSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Terminando la Parte Eléctrica</item>
+        <item>This is the time for your electrical department to have finished your wiring. It is
+            imperative that it is done so that your team will have as much time as possible for driving practice.
+            Some tips for a successful season are:
+            &lt;br>&lt;br>•\tDouble check all wire connections and make sure that they are
+            secure, even one wire coming loose could mean your entire robot shutting off.
+            &lt;br>&lt;br>•\tMake sure your power distribution board has fuses of the proper
+            amperage placed in their respective slots to prevent damaging any electrical components.
+            &lt;br>&lt;br>•\tIt is strongly recommended that all points of connection are
+            labeled from one point to another, this can save huge amounts of time when trying to
+            diagnose electrical problems.
+            &lt;br>&lt;br>•\tIf nothing else, make sure your electrical is neat and tidy in
+            its final form. It looks more impressive to the judges, and makes fixing things way more easy.</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_other_driveteam.xml -->
+    <eat-comment/>
+    <string-array name="fundraising_grants">
+        <item>fragment_pager_item_no_image</item>
+        <item>Applying for Grants</item>
+        <item>Grants typically offer a one-time source of money for teams. The monetary
+            amount, however, is rarely small. FIRST offers grants to its teams, but many of
+            these are aimed towards and only eligible to rookie teams. Many corporations
+            offer several grants to both rookie and veteran teams. At this time, these companies
+            include NASA, Rockwell Automation, and PTC. Local educational foundations and
+            donation-based non-profit organizations also often offer grants. When applying for
+            grants, a team may apply for a general team grant or for a grant for specific, needed
+            items. An example of items to buy with grant money, which may be stated when
+            applying for the grant, is the purchase of computers, hard drives, and tablets.</item>
+        <item/>
+    </string-array>
+    <string-array name="fundraising_grantsSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Conseguir Becas</item>
+        <item>Los becas casi siempre son una fuente de dinero que sólo puede ser usada una vez. La
+cantidad de dinero, sin embargo, casi nunca es pequeña. FIRST ofrece becas para sus
+equipos, pero están enfocadas para y sólo disponibles para equipos novatos. Muchas
+corporaciones ofrecen muchas becas tanto para equipos novatos como veteranos. En este
+momento, NASA, Rockwell Automation and PTC. Fundaciones educativas locales y
+organizaciones sin fines de lucro también pueden ofrecer becas. Cuando apliquen para
+conseguir becas, el equipo puede necesitar aplicar por becas para el equipo en general o
+para materiales en específico. Un ejemplo de materiales que puedes comprar con dinero de
+beca, que puede estar explícito cuando se aplique por una beca, es computadoras, discos
+duros y tabletas.</item>
+        <item/>
+    </string-array>
+    <string-array name="fundraising_major_events">
+        <item>fragment_pager_item_no_image</item>
+        <item>Major Fundraising Events</item>
+        <item>One reliable and consistent way to raise money is to host large fundraising events. These
+            events often span several days of work and should be planned well in advance. Although a lot
+            of work, these events provide an excellent way to raise funds for your team.
+            &lt;br>One example of a major fundraising event is hosting a summer day camp for
+            local youth. This doubles as an outreach activity because FIRST supports the introduction
+            of STEAM (Science, Technology, Engineering, Art, and Mathematics) in community outreach
+            to young people. Teams can charge anywhere from $50 to $250 per student for a one or two
+            weeklong day camp. There are many options of concepts to teach the attending students,
+            and these include MIT’s Scratch programming and robots built with Vex or FLL kit-of-parts.
+            Teams can either host these camps themselves at their high school or at other community
+            locations, and local “community education” groups can run and manage the camps.
+            &lt;br>Teams can host school-sponsored activities to raise both money and local awareness.
+            Planning and holding a themed school dance should raise anywhere from $1,000 to $5,000 per year.
+            Examples of themes are winter, Valentine’s Day, and Halloween. Robotic concepts such as
+            laser lights and automated decorations can even be incorporated into the dance. Students
+            will be drawn to attend the dance with promotions that students DJ the music and there are
+            fun, unique elements such as balloon drops.
+            &lt;br>Hosting an off-season regional competition spreads awareness of the team and earns
+            money. Prices to charge per attending team range from $50 to $500, and this adds up
+            quickly if 20+ teams attend. Teams return continually to well-organized events because
+            they provide positive networking environments for both the hosts and attendees. If a
+            team is small or new to planning an event of such a large magnitude, it can team up with
+            one or two other local teams and split the profits.</item>
+        <item/>
+    </string-array>
+    <string-array name="fundraising_major_eventsSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Eventos de Recaudación de Fondos Grandes</item>
+        <item>Una manera segura y consistente de juntar dinero es organizar una recaudación de fondos.
+Este tipo de eventos duran varios días y se deben de planear con tiempo. Aunque requieren
+mucho trabajo, este tipo de eventos son una excelente manera de juntar fondos para su
+equipo. Un excelente ejemplo de un evento de recaudación de fondos grande es organizar
+un campamento para los jóvenes de su zona. Esto sirve a la vez como una actividad de
+outreach ya que FIRST apoya el uso de STEAM (Science,Technology, Engineering, Arts and
+Mathematics) en el outreach hacia gente joven. Los equipos pueden cobrar entre $50 y $250
+por estudiante por un campamento de una o dos semanas. Hay muchas opciones de
+conceptos que enseñar a los estudiante que atiendan, como el Scratch programming de MIT
+así como programar y construir robots con VEX o FLL. Los equipos pueden organizar los
+campamentos de manera en su escuela o en otros lugares de la comunidad, y
+organizaciones locales de ‘educación de la comunidad’ pueden administrar y manejar el
+campamento. Los equipos pueden organizar actividades patrocinadas por la escuela para
+juntar dinero hacer propaganda. Planear y llevar a cabo un baile escolar puede ayudar a
+juntar entre $1,000 y $5,000 al año. Como por ejemplo un baile de Invierno, de San Valentín
+o Halloween. Conceptos que tengan que ver con robótica pueden ser incorporados al baile,
+como lásers o decoraciones automatizadas. A los estudiantes les llamará la atención que
+otros estudiantes estén como DJ y haya cosas como ‘balloon drops’.  Organizar un regional
+fuera de temporada ayuda a promocionar el equipo y a juntar dinero. El  por equipo puedo
+ser entre $50 a $500, y esto crece sobre todo si invitan a más de 20 equipos. Los equipos
+regresan continuamente aventureros granizados porque proveen lugares de Networking
+positivos para los organizadores y los invitados. si un equipo es pequeño o nuevo en cuanto
+organización de eventos puede juntarse con algunos equipos locales y dividirse las
+ganancias.</item>
+        <item/>
+    </string-array>
+    <string-array name="fundraising_minor_events">
+        <item>fragment_pager_item_no_image</item>
+        <item>Minor Fundraising Events</item>
+        <item>Smaller fundraising events may raise less money, but they are easier to plan and host
+            more of. Many successfully spread awareness in a team’s local community. One example is
+            bagging groceries at a local supermarket. Past robots can be displayed and, if the store
+            allows it, driven. Customers are usually excited to hear about the robots and community
+            outreach of a FIRST team, and they are often willing to donate. This typically earns a
+            team $500 to $1,500. Another small fundraising event that can be done at a supermarket
+            is selling hot dogs outside the building in the summer. Local stores will often donate
+            the equipment, and they will possibly donate the supplies. Watch for stores that offer
+            this, and request a shift. This can make a team around $500 to $1,000. Many local and
+            chain restaurants offer high school teams benefit nights. On these nights, a certain
+            percentage of sales is granted to the promoted team. If a team advertises properly, it
+            has the potential to earn well over $500 and into the thousands of dollars. When
+            combined, these minor fundraising events can earn more money than one or two major
+            events.</item>
+        <item/>
+    </string-array>
+    <string-array name="fundraising_minor_eventsSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Eventos de Recaudación de Fondos Pequeños</item>
+        <item>Aunque los eventos de recaudación pequeños tienen a juntar menos dinero son más fáciles
+de planear y llevar acabo. Muchos generan conciencia de manera exitosa en la comunidad
+del equipo. Un ejemplo de esto puede ser guardar el súper en bolsas en su supermercado
+más cercano. Robots de años pasados puede ser puestos a la vista y si la tienda lo permite,
+dejar los clientes lo manejen. Los clientes que siempre están emocionados al escuchar sobre
+robots y ‘community outreach’ de un equipo de FIRST y casi siempre están dispuestos a
+hacer una donación. Un equipo gana alrededor de $500 a $1500 en este tipo de eventos.
+Otro tipo de evento de recaudación pequeña  que se pueda hacer es vender hotdogs afuera
+de un supermercado cuando hace calor en el verano. Tiendas locales muchas veces donan
+equipo y hasta materiales. Busquen tiendas que hagan este tipo ofertas y pidan un turno de
+trabajo. Con esto, el equipo puede recaudar alrededor de $500 a $1000. Muchos
+restaurantes locales y de cadena ofrecen noches de beneficio para las escuelas. En dichas
+noches, un porcentaje de las ganancias se les dan al equipo que lo promociona. Sin equipo
+hace una promoción adecuada, tiene potencial de ganar más de $500 o hasta los miles de
+dólares. Cuando se combinan, los eventos pequeños pueden juntar más dinero que uno o
+dos eventos de recaudación grandes.</item>
+        <item/>
+    </string-array>
+    <string-array name="fundraising_obtaining_sponsors">
+        <item>fragment_pager_item_no_image</item>
+        <item>Obtaining Sponsors</item>
+        <item>Sponsorships often give teams large amounts of money for little effort,
+            especially when compared to other methods of fundraising. Sponsors can be either
+            corporate, at a major business such as JCPenny, or local, with locations that include
+            a local hardware store and a restaurant. However, when obtaining sponsors it is
+            important to remember that non-monetary sponsorship may be just as valuable as money.
+            Many companies can offer mentorship or supply donations.
+            &lt;br>The first step to getting sponsors is asking team members if any parents work for
+            companies that could potentially offer money, mentors, or donations to the team. This
+            option should be explored first because connections make companies much more likely to
+            want to support the team. Ask the  parents for the people to contact regarding
+            sponsorship at their companies, and call the contacts to schedule meetings with those
+            who grant sponsorship. Once a meeting is scheduled, sponsorship is almost guaranteed.
+            Prepare an interactive PowerPoint and speech, and be ready to answer questions.
+            &lt;br>If no parents work at companies that could sponsor the team or additional
+            sponsors are needed, there are many other options. Go to the websites of local teams and
+            find out which companies sponsor them, as large companies usually sponsor several teams
+            in their base areas. Local companies are also often willing to sponsor robotics teams.
+            Although they might not be able to give as much money, having support from the community
+            is an important aspect of FIRST.
+            &lt;br>More information can be found on the
+            &lt;a href="http://www.usfirst.org/roboticsprograms/first-fundraising-toolkit">FIRST Fundraising Toolkit&lt;/a>.</item>
+        <item/>
+    </string-array>
+    <string-array name="fundraising_obtaining_sponsorsSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Conseguir Patrocinios</item>
+        <item>Los patrocinios casi siempre le otorgan a los equipos grandes cantidades de dinero por muy
+poco esfuerzo, comparado con otros métodos de recaudación de fondos. Los patrocinadores
+pueden ser corporativos, compañías grandes como JC Penny, o locales, como su ferretería
+local o un restaurante. Sin embargo, cuando obtengas un patrocinio, es importante recordar
+que apoyo no monetario puede ser igual de importante que el dinero. Muchas compañías
+ofrecen mentores o proveen donaciones. El primer paso para conseguir es preguntare a sus
+compañeros de equipo si trabajan en alguna compañía que pudiesen ofrecer dinero,
+mentores o donaciones al equipo. Esta opción debe ser explorada primero, ya que las
+conexiones hacen que las compañías estén más interesadas en apoyar al equipo. Pídanle a
+los padres de familia el contacto de la persona encargada de patrocinios en la compañía, y
+marquen para agendar una cita. Ya que se agendó la cita, el patrocinio está casi asegurado.
+Preparen una presentación interactiva y un discurso, y estén listos para contestar preguntas.
+Si ningún padre de familia trabaja en una compañía que pueda ser patrocinador o se
+necesitan más patrocinadores, existen muchas otras opciones. Visiten las páginas de internet
+de equipos locales y busquen cuales con las compañías que los apoyan, ya que las
+compañías grandes suele apoyar a varios equipos. Las compañías locales la mayoría de las
+veces están dispuestas a apoyar a equipos de robótica. Aunque no les puedan dar mucho
+dinero, tener apoyo de la comunidad es un aspecto importante de FIRST-
+            &lt;a href="http://www.usfirst.org/roboticsprograms/first-fundraising-toolkit">FIRST Fundraising Toolkit&lt;/a>.</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_departments_electrical.xml -->
+    <eat-comment/>
+    <string-array name="getting_materials">
+        <item>fragment_pager_item_no_image</item>
+        <item>Getting Materials</item>
+        <item>While the details of your design may not be set in stone, it is important for your
+            team to begin purchasing materials, especially materials that need to be shipped.
+            Unfortunately you can\'t build a robot without supplies, and it is much better to be
+            waiting for them during Weeks One and Two than during Week Six.
+            &lt;br>Have your team put together a list of expected materials, and don\'t forget to
+            include extras for any parts you think might break.
+            Your priority should be getting the parts you need to start building!</item>
+        <item/>
+    </string-array>
+    <string-array name="getting_materialsSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Obtener los Materiales</item>
+        <item>Aunque los detalles de su diseño no estén completos, es importante que tu equipo empiece a
+comprar materiales, en especial lo que requieren ser enviados por paquetería.
+Desafortunadamente, no se puede construir un robot sin materiales, y es mejor estarlos esperando
+durante la primera o segunda semana que durante la sexta. Haz que tu equipo escriba una lista de
+los materiales que creen que van a usar, y no olvides incluir repuestos para aquellas piezas que
+creas que se puedan romper. Su prioridad debería ser conseguir las partes para empezar a armar!</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_other_fundraising.xml -->
+    <eat-comment/>
+    <string-array name="late_build_changes">
+        <item>fragment_pager_item_no_image</item>
+        <item>Building the Unexpected</item>
+        <item>Like the real world, build season is often full of unexpected surprises. In the case of
+            a robot-building emergency, don\'t panic. Last minute changes happen on every team, and the
+            important thing to remember is that you can continue building after the six weeks are over.
+            &lt;br>
+            You are allowed to bring a small amount of robot-related parts to competition, which means
+            you can manufacture parts at home and install them on the first day of competition.</item>
+        <item/>
+    </string-array>
+    <string-array name="late_build_changesSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Construyendo lo Inesperado</item>
+        <item>Así como la vida real, la temporada siempre está llena de sorpresa inesperadas. En caso de
+tener una emergencia con respecto al robot, no entren en pánico. Los cambios de último
+minuto suceden en todos los equipos, es importante recordar que seguir construyendo una
+vez terminadas las seis semanas. Está permitido traer partes del robot a la competencia, lo
+cual significa que pueden manufacturar partes en casa e instalarlas el primer día de la
+competencia.</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_competitions_regionals.xml -->
+    <eat-comment/>
+    <string-array name="main_programming">
+        <item>fragment_pager_item_no_image</item>
+        <item>Programming</item>
+        <item>By this point, you should be able to control every part of your robot. It is time to
+            stop working on implementing new features and perfect the ones you have. This is the time
+            to create control loops which make the driver\'s job easier, such as a PID controller.
+            Make sure to check if existing functions are available before trying to implement your
+            own; they will be easier to use and are much less likely to contain bugs than code you or
+            your team writes.
+            &lt;br>
+            One of the features that is not stressed enough in FRC programming is code reuse.
+            When writing the functions for this year\'s robot, think about how you can write the code
+            so that it is still viable next year. Although your robot will change from year to year,
+            there is no reason you cannot recycle some of the programming ideas and implementations.
+            However, you may be required to release the code as open-source if you plan to use code
+            from previous years, in order to comply with
+            &lt;a href="http://frc-manual.usfirst.org/viewItem/3#removeid_700">R13&lt;/a> of the
+            &lt;a href="http://frc-manual.usfirst.org/viewItem/3">Game Manual&lt;/a>.</item>
+        <item/>
+    </string-array>
+    <string-array name="main_programmingSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Programación</item>
+        <item>Para este entonces, ya deberían poder controlar cada parte de su robot. Es hora de dejar de
+trabajar en implementar funciones nuevas y perfeccionar las que ya tienen. Abres el
+momento para crear vueltas de control que ayudan a que el trabajo del conductor sea más
+fácil, como los controles PID. Asegúrense de revisar si existen funciones disponibles antes
+de querer implementar las suyas; seguro serán mucho más fáciles de usar y que tengan
+menor cantidad errores que el código que escriban. Uno de los puntos al cual no se le puede
+dar suficiente énfasis, es reutilizar código ya existente para programación en FRC. Mientras
+escriben el código para el robot este año, piensen también en como pueden escribirlo para
+que se pueda usar el próximo año. Aunque su robot va cambiar año con año, existe ninguna
+razón para no reciclar algunas de las ideas e implementaciones del programa.
+          </item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_departments_programming.xml -->
+    <eat-comment/>
+    <string-array name="module_building">
+        <item>fragment_pager_item_no_image</item>
+        <item>Building Modules</item>
+        <item>Hopefully by now prototyping has shown you some viable strategies and mechanisms for
+            the game. Prototypes are great for finding out what designs work well, but your robot should
+            not be made of prototypes! It\'s time to start building modules out of the designs you have
+            tested; even if not every component has been fully tested it is important to start
+            building what you can as soon as you can!
+            &lt;br>While building components in modular sections is often the most efficient workflow,
+            where many people can work on assembly at once, it is important to remember that in the
+            end every module must come together to form a robot. Don\'t forget to talk between
+            work-groups to make sure that everybody is on the same page!</item>
+        <item/>
+    </string-array>
+    <string-array name="module_buildingSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Construcción de Módulos</item>
+        <item>Ojalá para este entonces hayan encontrado algunas estrategias y mecanismos viables para el juego
+después de haber hecho prototipos. Los prototipos son excelentes para encontrar que diseños son
+los que funcionan bien, pero no su robot no debe estar hecho de prototipos. Es hora de empezar a
+construir módulos a partir de los diseños que probaron; aunque no todos los componentes hay sido
+probados completamente es importante empezar a construir lo antes posible. Aunque construir
+componentes en secciones modulares si frecuentemente la parte más eficiente del flujo de trabajo,
+es muy importante recordar que al final todos los módulos deben juntarse para formar un robot. No
+se les olvide que debe haber comunicación entre los grupos de trabajo para asegurase que todos
+estén en la misma página.</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_competitions_districts.xml -->
+    <eat-comment/>
+    <string-array name="outreach_about">
+        <item>fragment_pager_item_no_image</item>
+        <item>Outreach</item>
+        <item>Teams spread the mission of FIRST in many different ways. Outreach events are important
+            to help get your team name out into the world of FIRST and out into your community. Your
+            team can do many forms of outreach in order to spread the world of science and technology.</item>
+        <item/>
+    </string-array>
+    <string-array name="outreach_aboutSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Outreach</item>
+        <item>Los equipos comparten la misión de FIRST diferentes maneras. Los eventos de divulgación o
+‘outreach’ son muy importantes para ayudar a que tanto tu comunidad como el mundo de
+FIRST sepan el nombre de tu equipo. Su equipo puede hacer outreach de muchas maneras
+para esparcir el mundo de las Ciencia y Tecnología.</item>
+        <item/>
+    </string-array>
+    <string-array name="outreach_demonstrations">
+        <item>fragment_pager_item_no_image</item>
+        <item>Demonstrations</item>
+        <item>Whether it is at your local grocery store or at a science museum, demonstrations are a
+            great way to reach out to your local community. You can allow kids to drive the robots
+            and teach adults about its benefits. Demonstrations are a great opportunity for your team
+            to find interested people and get them involved. A few fun places to give demonstrations
+            is at local schools, malls, and museums.</item>
+        <item/>
+    </string-array>
+    <string-array name="outreach_demonstrationsSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Demostraciones</item>
+        <item>Ya sea en su supermercado local o en un museo de ciencias, las demostraciones son una
+excelente manera de acercarse a su comunidad. Pueden dejar que los niños manejen el
+robots  y enseñarle a los adultos sus beneficios. Las demostraciones son una muy buena
+oportunidad para que su equipo encuentre gente interesada y los involucre. Algunos lugares
+divertidos para hacer demostraciones son escuelas locales, plazas comerciales y museos.</item>
+        <item/>
+    </string-array>
+    <string-array name="outreach_mentoring">
+        <item>fragment_pager_item_no_image</item>
+        <item>Mentoring</item>
+        <item>One way to spread STEM is through mentoring other teams. You might consider starting a
+            FTC team to form a funnel program at your school into your FRC team. You can also start
+            other teams in your surrounding area through presenting at their schools. Whether its FLL,
+            FTC or FRC, kids are given the opportunity to learn about science and technology and FIRST
+            is an exciting organization to have fun in.</item>
+        <item/>
+    </string-array>
+    <string-array name="outreach_mentoringSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Mentores</item>
+        <item>Una manera de compartir STEM escindo mentor de otros equipos. Pueden considerar
+empezar un equipo de FTC para crear un programa de canalización en su escuela y para su
+equipo de FRC. También pueden crear otros equipos en sus alrededores presentando en sus
+escuelas. Ya sea FLL, FTC o FRC, los niños reciben una oportunidad para aprender acerca
+de ciencia la tecnología y sobre FIRST, que es una organización muy emocionante en la cual
+divertirse.</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_competitions_inspections.xml -->
+    <eat-comment/>
+    <string-array name="pits_crew">
+        <item>fragment_pager_item_no_image</item>
+        <item>Pit Crew</item>
+        <item>The pit crew are some of the most crucial people off the field. It is important to
+            allow them the space necessary in the pit for immediate work and for those moments of
+            rushed panic. The pit crew should be ready for anything at any time. The crew should be
+            about 5-6 people so there is not too few or too many people in the pits. The pits can
+            easily get crowded so it is important to not have too many people around so there is
+            plenty of space to work on the robot. With the drive team and the pit crew constantly
+            in and out of the pits it’s important to keep a minimal amount of people besides them in
+            the area to avoid overcrowding. A last reminder, it is very important to have mechanical
+            people in the pit crew, but a programmer is just as necessary for a successful robot.</item>
+        <item/>
+    </string-array>
+    <string-array name="pits_crewSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Equipo de Pit</item>
+        <item>El equipo de pit son de la personas mas cruciales fuera del campo. Es importante dejarles el
+espacio necesario dentro del pit para trabajo inmediato o momentos de pánico. El equipo de
+pit debe estar preparado para cualquier cosa en cualquier momento. El equipo debe estar
+compuesto de 5-6 personas para que no haya gente de más o gente de menos en los pits.
+Con el equipo de manejo y el equipo de pits entrando y saliendo constantemente, es
+importante mantener la menor cantidad de gente posible para que haya suficiente espacio
+para el robot, ya que pits se pueden llenar de gente fácilmente. Un último recordatorio, es
+que es muy importante que haya mecánicos que seas parte del equipo de pit, pero un
+programador es igual de necesario para tener un robot exitoso.</item>
+        <item/>
+    </string-array>
+    <string-array name="pits_design">
+        <item>fragment_pager_item_no_image</item>
+        <item>Pit Design</item>
+        <item>Designing your pit is one of the most important things to do before you head to
+            competition. Creating your pit is not something to take lightly considering it
+            represents your team in the pits at competitions. There are many different aspects to
+            consider when designing your teams pit. One main thing to think about is implementing
+            your team\'s name and number into your pit. Your name and number should be clearly visible
+            to everyone whether they are judges, other team members/mentors, or volunteers; it is
+            very important that your pit is noticeable to all of these people.
+            &lt;br>The design of your pit is also supposed to not only display your teams name and
+            number but also your teams theme and values. Judges are constantly in the pits so it is
+            important that your team’s values are displayed openly. This can be shown by hanging up
+            posters, displaying your sponsors names, or even banners. Hanging a banner across the
+            top of your pit is an easy way to display a lot of information that can easily be seen
+            by everyone. As you can see, there are many ways to show your teams theme and values in
+            your pit design. The best advice we can give is to have fun and be creative!</item>
+        <item/>
+    </string-array>
+    <string-array name="pits_designSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Diseño de los Pits</item>
+        <item>Diseñar el pit es una de las cosas mas importantes de hacer antes de dirigirse a la
+competencia. La creación del pit es algo que no se debe tomar a la ligera, ya que deben
+considerar que es lo que representa a tu equipo en los pits durante la competencia. Existen
+varios aspectos que deben considerar mientras diseñen el pit de su equipo. El nombre de su
+equipo, así como su numero, debe estar en un punto donde todos lo puedan ver, tanto
+miembros o mentores de otros equipos como jueces y voluntarios; es muy importante que su
+nombre se de a notar. Los jueces están de manera constante en los pits, entonces es muy
+importante que estén los valores de su equipo estén a la vista. La mejor manera de hacerlo
+es colgando posters con los logos de sus patrocinadores o incluso banderines a colocados
+en la parte superior de su pit, que es una muy buena manera de mostrar una gran cantidad
+de información para que todos la puedan ver. Como pueden ver, hay muchas maneras de
+mostrar el tema de su equipo y sus valores en el diseño del pit. El mejor consejo que les
+podemos dar es que se diviertan y sean creativos!</item>
+        <item/>
+    </string-array>
+    <string-array name="pits_judges">
+        <item>fragment_pager_item_no_image</item>
+        <item>Talking With Judges</item>
+        <item>Talking with judges is obviously one of the most important parts of the pits. Judges
+            are constantly walking through the pits at competitions so don’t forget to always show
+            gracious professionalism. When judges come and talk to teams in the pits they are truly
+            curious and eager to learn about your team and your robot. The judges will ask questions
+            that are either relevant to your robot or your team so it is wise to have experts of both
+            in your pits. When talking to judges always be informative. It is also important that
+            when judges come to your team’s pit that a team member is doing most or all of the
+            talking, not a mentor or parent. The judges are there to talk to the team, not the
+            mentors.
+            &lt;br>While the majority of the questions asked in the pit will be about your team\'s
+            robot the judges will also be looking for contenders for the other awards at the
+            competition. This will be even amplified if you are competing for the Chairman\'s award.
+            It is important to have an expert on your team’s outreach, marketing, and fundraising
+            side of your team in the pits as well. They will help answer these questions for the
+            judges. Judges are also not the only ones coming to talk in the pits; you will have pit
+            scouters, alliance partners, and volunteers always coming by also. Remember to always
+            be in a good mood!</item>
+        <item/>
+    </string-array>
+    <string-array name="pits_judgesSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Plática con los Jueces</item>
+        <item>Hablar con los jueces obviamente es una de las partes mas importantes de los pits. Los
+jueces siempre están caminando por los pits, así que no olviden siempre mostrar ‘gracious
+professionalism’. Cuando los jueces se acerquen a hablar con los equipos en los pits, tienen
+verdadera curiosidad y ganas de conocer a al equipo y su robot. Los jueces van a hacer
+preguntas sobre cosas relevantes sobre el robot o el equipos, así que es sabio tener a gente
+experta en ambos en los pits. Cuando estés platicando con los jueces siempre sean
+informativos. También es importante que cuando los jueces se acerquen a su pit que un
+alumno esta haciendo toda o casi toda la platica, no un mentor o un papá. Los jueces están
+ahí para platicar con el equipo, no los mentores. Aunque la mayoría de las preguntas que
+hacen en el pit son su robot, los jueces también están buscando contendientes para los
+demás premios de la competencia. Esta se va a amplificar si están compitiendo por un
+premio Chairman’s. Es importante tener un experto en el ‘outreach’, marketing y fundraising
+de su equipo en los pits también. Ellos les ayudarán a contestar estas preguntas a los jueces.
+Los jueces no son los únicos que van a ir a babar con ustedes en los pits; van a tener ‘pit
+scouters’, compañeros de alianza y voluntarios siempre visitando. Recuerden siempre estar
+de buen humor!</item>
+        <item/>
+    </string-array>
+    <string-array name="pits_organization">
+        <item>fragment_pager_item_no_image</item>
+        <item>Organization</item>
+        <item>Organization is one of the most important things in your team’s pit. Without a system
+            of organization it is almost inevitable that you will lose something. There are many
+            different ways to organize your pit. You will have a ton of tools and items you will be
+            bringing with you that will all seem to end up in your pit. It is a good idea to have
+            boxes, cabinets, etc. so items are not lost or stolen. Organizing your pit crew\'s tools
+            is a vitally important thing for your team’s success because if your robot breaks during
+            competition you want to be able to find these tools easily. It is also important to leave
+            tools that are commonly needed during competition in a close by place so they can be accessed easily.
+            &lt;br>Aside from the tools there are many other things that will need to be organized
+            in your pit whether they are computers, batteries, or even jackets. It is a good idea
+            to have an easily accessible area with the batteries so you can quickly change them when
+            necessary. Computers are not something you likely want to leave out in the open, even if
+            there is someone always in your pit, it is best to put them in a safe place such as a
+            cabinet or even just under a table out of site. Jackets and other such items can easily
+            be put into a box or crate so they are not taking up space inside the pit. Lastly, always
+            remember to leave space to work when needed.</item>
+        <item/>
+    </string-array>
+    <string-array name="pits_organizationSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Organización</item>
+        <item>La organización es un de las cosas más importantes en el pit de su equipo. Sin un sistema
+de organización, es casi inevitable que pierdan algo. Existen varias maneras para organizar
+su pit. Van a tener muchas herramientas y objetos que van a traer y acabarán de alguna
+manera u otra en su pit. Es una buena idea traer cajas, un mueble con cajones, etc. para que
+los objetos no se pierdan o se los roben. Organizar las herramientas del equipo del pit es de
+vital importancia para el éxito de su equipo, ya que si su robot se descompone durante la
+competencia les conviene tener las herramientas que van a necesitar a la mano. También es
+importante tener a la mano las herramientas que utilizan frecuentemente. Además de las
+herramientas, hay otras cosas que necesitan mantener organizadas en su pit, como
+computadoras, baterías o incluso chamarras. Es una buena idea designar un espacio de
+acceso fácil con baterías para poder cambiarlas rápidamente cuando sea necesario. Las
+computadoras son algo que no van a querer dejar al descubierto, aun cuando haya siempre
+alguien es su pit, así que lo mejor sería dejarlos en un lugar seguro como un gabinete o
+abajo de una mesa. Las chamarras y otros objetos de ese estilo se pueden guardar en una
+caja para que no ocupen espacio dentro del pit. Por ultimo, recuerden siempre dejar espacio
+libre para poder trabajar cuando sea necesario.</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_other_safety.xml -->
+    <eat-comment/>
+    <string-array name="preparing_for_next_year">
+        <item>fragment_pager_item_no_image</item>
+        <item>Preparing for Next Year</item>
+        <item>After the competition season ends, everyone deserves a rest, but there is still a lot
+            of work to do. Your team must decide what you will be doing with your robot. Maybe it
+            performed so well in competition that you want to keep it in operating conditions for
+            demonstrations, or teaching new members about your robot. Maybe you will want to take it
+            all apart so you can reuse parts for next year’s robot. Either way, your workspace
+            probably could use some cleanup and organization of tools and parts after the last six
+            weeks of mayhem. As your team grows it is important to keep up on the organization of
+            your workspace to facilitate safety and productivity, as well as avoid the expense of
+            having to replace lost tools or robot parts.
+            &lt;br>If your team seeks to compete for the chairman’s award next year, you have more
+            work to do. Demonstrations in your community during the summer goes a long way towards
+            a convincing judges of your teams’ positive impact. If you kept your robot in operating
+            condition, all the better. It will be your greatest tool for attracting positive interest
+            in your robotics team, and to promote FIRST. KING TeC showcases their robot in an annual
+            town parade in August, and brings it to schools for demonstrations in the fall and spring.
+            &lt;br>How will you attract the most talented kids for your team next year? September
+            is the best month to begin promoting your team to potential new members. Even though
+            the FRC game isn’t released until January, there is a steep learning curve to follow if
+            your new members want to learn all there is to know about an FRC robot, how the
+            competitions work, and building skills. KING TeC makes it a priority that all our members
+            are familiar with operating the power tools and the proper safety procedures to follow.
+            Senior members can host classes in CAD or programming for the new members to learn essential
+            software skills that will reap benefits during the competition season.
+            &lt;br>To prepare new students for the intense atmosphere of first robotics competitions,
+            consider using last years’ robot to compete at a mock regional in the fall. Older teams
+            host small scale unofficial competitions in their high schools in the fall in order to
+            train new members for the roles they will have at an actual competition. In Minnesota,
+            KING TeC hosts the Minne-mini regional at their high school, where around 30 teams compete
+            for a day. Search the Chief Delphi forums for practice competitions in your area.</item>
+        <item/>
+    </string-array>
+    <string-array name="preparing_for_next_yearSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Preparándose para el siguiente año.</item>
+        <item>Después de que la competencia termina, todos merecen un descanso, pero sigue habiendo
+mucho trabajo por hacer. Tu equipo debe decidir lo que harán con su robot. Quizás se
+comportó muy bien en las competencias y lo quieren mantener funcional para dar
+demostraciones, o enseñarle a nuevos integrantes acerca del robot. De cualquier manera, tu
+lugar de trabajo podrías tener una limpieza y reorganización de la herramienta después de
+las seis semanas de ajetreo. Mientras que el equipo crece es importante mantener la
+organización de tu espacio de trabajo para facilitar la seguridad y productividad, así como
+laos gastos de tener que reponer partes perdidas. Si tu equipo pretende participar por el
+Chairman’s Award el próximo año, tienes muchas cosas que hacer. Las demostraciones a tu
+comunidad durante el verano van a la par con la comunicación a los jueces sobre el impacto
+positivo del equipo en su comunidad. Si mantienes a tu robot en operación es mucho mejor.
+Será la mejor herramienta para atraer interés positivo en tu equipo de robótica, y promover
+FIRST. El equipo KING TeC muestra su robot en el desfile anual que se lleva a cabo en
+Agosto, y trae a escuelas a demostraciones durante el otoño y la primavera. ¿Cómo atraerás
+a las personas más talentosas a tu equipo el próximo año? Septiembre es el mejor momento
+para empezar a promover el equipo a los posibles nuevos integrantes. Aunque el juego de
+FRC no es anunciado sino hasta enero, hay una importante curva de aprendizaje que se
+debe seguir si los nuevos integrantes quieren aprender acerca de todo lo que involucra a un
+robot de FRC, cómo funcionan las competencias y habilidades de construcción. El equipo
+KING Tec tiene como prioridad que todos los miembros de su equipo se familiaricen con las
+herramientas y los procedimientos de seguridad a seguir. Los integrantes veteranos pueden
+dar clases sobre CAD o programación a los nuevos integrantes para aprender las habilidades
+esenciales de software que les darán mucho beneficio durante la temporada de competencia.
+Para preparar a los estudiantes para la intensa atmósfera de las competencias de robótica
+FIRST, considera usar el robot del año pasado para hacer un regional de prueba en el otoño.
+Los equipos veteranos realizan algunas competencias extra-oficiales en sus escuelas para
+entrenar a los nuevos estudiantes en los papeles que tendrán en la verdadera competencia.
+En Minnesota, el equipo KING TeC lleva a cabo el regional ‘Minne-mini’ en su preparatoria,
+donde alrededor de 30 equipo compiten en un día. Busca en los foros de ChiefDelphi
+competencias cerca de tu área.</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_departments_electrical.xml -->
+    <eat-comment/>
+    <string-array name="prototyping">
+        <item>fragment_pager_item_no_image</item>
+        <item>Prototyping</item>
+        <item>The teams on Einstein Field at the FRC World Championship consistently do one thing right.
+            They test and test repeatedly, designing and breaking components of their robot before even
+            thinking about assembling them into a finalized design. Prototyping allows teams to find
+            flaws in their designs and fix them before it cuts into the crucial later weeks, where time
+            and resources need to be spent on programming and drive practice.
+            &lt;br>
+            KING TeC assembles smaller two/three man teams that work on individual components of the
+            robot. How you prototype is up to your team, but it is important to keep the process moving.
+            Don\'t let a failure in one part constitute a failure as a whole!</item>
+        <item/>
+    </string-array>
+    <string-array name="prototypingSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Hacer el Prototipo</item>
+        <item>Los equipos que están en el Einstein Field en el Campeonato Mundial de FRC hacen una cosa de
+manera consistente: hacer pruebas y pruebas hasta el cansancio, diseñando y rompiendo
+componentes de su robot antes de siquiera pensar en armarlos en un diseño definitivo. Hacer
+prototipos ayuda a que el equipo encuentre fallas en su diseño y arreglarlos antes que los afecte en
+semanas posteriores, donde el tiempo y los recursos se necesitan usar en programación y prácticas
+de manejo. KING TeC organiza equipos de dos o tres personas para trabajar en componentes
+individuales del robot. El proceso para hacer el prototipo depende de cada equipo, pero es
+importante que el proceso no se detenga. No dejen que una falla en una parte se convierta en una
+falla general.</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_competitions_compintro.xml -->
+    <eat-comment/>
+    <string-array name="regional_competitions">
+        <item>fragment_pager_item_no_image</item>
+        <item>Regional Competitions</item>
+
+        <item>
+During your three-day competition, this “preparation” stage generally takes up the entire first day.
+            Typically a Thursday, this day can be thought of as a “prep day.” There are several key events that a team should
+            be prepared for on the first day, both related and unrelated to your robot. Here is a quick list of things to remember
+            for the preparation stage:\n\n
+Attach any last-minute mechanisms quickly and efficiently.\n
+Organize your pit so you don’t have to scramble to find tools or parts.\n
+Test to make sure everything works before inspections.\n
+Organize your team to make inspections run smoothly.\n
+Be prepared to change something about your robot.\n
+Use this day to pit scout (See Strategy section).\n
+NEVER miss a practice match unless absolutely necessary!\n
+Use the open practice field to your advantage.\n
+Always be on your best behavior; Judges are everywhere, even on Thursdays.\n\n
+
+
+First of all, your robot needs to be legal. In order to insure that happens, read the FRC Inspection Checklist very carefully
+            (it often changes between years, so look out!). Often times, teams will arrive at competition having seldom weighed
+            or measured their robot, which forces them to either remove mechanisms or sacrifice the structural integrity of their
+            design. This can be devastating, especially to newer teams. Whether you’re a veteran or rookie team, it should be top
+            priority to examine the checklist before competition. Then when you finally get to the front of the inspection line,
+            the volunteer can check you off quickly, and you can be on your way to the practice field!\n\n
+
+Sometimes you may encounter unforeseen weight problems or frame perimeter issues (these two are the most common).
+            This is why your Pit Crew needs to be ready. If you ever run into weight issues, here are some quick fixes
+            that may help your team:\n\n
+
+Take off decorative materials (LED’s, stuffed animals, etc.)\n
+Replace fancy side panels with lighter equivalents (paper/cardboard)\n
+Use a Dremel or drill to cut holes or “swiss cheese” non-load-bearing metal\n
+Replace wheels with lighter types that still serve their purpose.\n\n
+
+Having an organized and clean pit is vital to efficiency. Every minute you waste trying to find the
+            correct size wrench is time taken from your practice driving! This brings us to the next
+            step in the preparation day, which is to use the practice field and your scheduled practice
+            matches to get to know the field. Chances are, the field will differ from your workspace equivalent.
+            It is important to discover these discrepancies the day before qualifying matches, just in case they
+            affect the strategy or capabilities of your robot. Additionally, practicing pre-match tasks
+            (lining up for autonomous, setting up the driver station, etc) familiarizing yourself with
+            the experience behind the controls in a real-life setting is invaluable, especially to those
+            teams who are unable to have extensive driver practice before competition.\n\n
+
+Finally, this preparation day is just as important for those who aren’t a part of the pit
+            crew or drive team. This is the perfect time to perform pit scouting, or to even
+            watch practice matches and get to know the robots. For more details about pit scouting, see the
+            Strategy section. To summarize, you send out team members to gather information directly from the
+            members of other teams and take notes on their physical robots, rather than their performance. For those
+            not participating in mechanical or scouting roles, it is important to keep up your team image. As previously mentioned,
+            Judges are roaming the pits and stands at all times, and having a stands full of kids looking down at
+            their phones isn’t very exciting. Act excited! Cheer for your team during practice matches! Practice cheers,
+            dance to music, and be energized, because Judges will notice you!\n\n\n
+
+Qualifying Matches\n\n
+
+	The second portion of the competition starts the competitive matches. The energy-filled day begins with a
+            rush to the stands. If you want to make sure you get a good section for your team to cheer, be sure
+            to send a team of around six members to run into the stands and reserve a couple rows. Often times, teams
+            will get stuck with either not enough room to fit their whole team, or horrible angle that doesn’t allow them
+            to see the robots perform. Once the seating rush is over, many teams use the practice field and it is difficult
+            to get a spot. This is why the time allotted for drive practice during Thursday is so important. If your robot is
+            working and you have had ample driving practice, don’t be afraid to relax. Organize your scouters, finish any pit
+            scouting, and practice some cheers (some some sort of “Good Morning” cheer is always fun, see Team Spirit section).
+            This is the “calm before the storm,” so enjoy it. \n\n
+
+	Another event that is important to remember on Friday is the Driver’s Meeting. This is for drive teams only,
+            and is essentially a Q and A with the judges and referees. This meeting is essential to teams who have
+            questions about any aspect of their strategy and its legality. It’s better to ask an obvious question
+            in this meeting than to get penalized for it later! Go into the meeting with a list of any questions
+            you may have, and be prepared to prioritize, as the meeting is only around 15-20 minutes. At the end of
+            the driver meeting, each team receives a copy of the match schedule, which should be analyzed before Opening
+            Ceremonies. Take it back to your Pits and create a list of your matches, their times, your alliance partners,
+            who you’re against, and your alliance color. You can use this information to your advantage, so be sure to communicate
+            with your scouters throughout the day to get the most updated information!\n\n
+
+	Have your whole team attend the opening ceremonies, and if you’re in the few matches, you may
+            be required to set up your robot or queue. The first match will begin immediately after
+            Opening Ceremonies. The basic structure of a match is:\n\n\n
+Bring your robot to Queuing, which corresponds to your alliance color and number, two matches
+            before your scheduled match. You will wait here for the next match, then move to
+            the next level of Queuing. After the second match, start moving towards the field.\n\n
+Have two drive team members carry the robot onto the field and line it up for autonomous. \n\n
+Have a third member connect your team’s driver station to the field control system using the provided
+            Ethernet cable. Make sure you can connect to your robot and test your controllers to make
+            sure everything is plugged in! Then select the correct autonomous program if you have one.\n\n
+Have the fourth member move the robot cart to the designated area.\n\n
+Wait for the announcers to finish introducing the teams (when they announce your team, it’s
+            always fun to coordinate a move or gesture to give your team recognition, such as a bow or a dance move. Be creative!)\n\n
+Once the match begins (Begin in 3… 2… 1… GO!), stand behind the white driver station line
+            until the autonomous period ends and the teleoperated period begins. In FRC,
+            there is no delay between autonomous and teleop, so be prepared to start driving immediately!\n\n
+After the match has completed, wait until the referees deem it acceptable to remove your robots
+            from the field. Have one team member retrieve your cart, one disconnect the driver station, and two lift it off the field.\n\n
+Take the robot back to your pit, assess any damage or malfunctions, and prepare to repeat the cycle!\n\n\n
+
+	It’s also important to know how the ranking system works at a competition during the qualifying
+            rounds. The whole system works off of “Ranking Points,” abbreviated to “RP.” \n\n\n
+A win in a match awards each team on the winning alliance Two (2) RP\n\n
+A tie awards each team on both alliances One (1) RP\n\n
+A loss yields Zero (0) RP\n\n\n
+Some years, the game may award extra RP to an alliance for completing certain tasks during the match
+            (for example, in 2016 FIRST Stronghold, an alliance was awarded 1 RP for breaching 4 out of
+            5 of the other team’s defenses, and 1 RP for making at least 10 shots, in addition to the Win/Loss/Tie RP)\n\n
+A team’s RP are cumulative throughout the Qualifying Matches, and they are the first determinant in a team’s ranking.
+            However, since they are based off of wins and losses, many teams often end with the same RP.
+            Because of this, tiebreakers are organized in tiers. Unfortunately, these often change
+            between years due to what the game creators believe is more difficult. For an example,
+            the 2016 FIRST Stronghold Tiebreakers were as follows:\n\n\n
+
+Ranking Points (RP)\n\n
+Cumulative Autonomous Points\n\n
+Cumulative Scaling/Challenge Points\n\n
+Cumulative Goal Points\n\n
+Cumulative Defense Crossing Points\n\n
+Record (W-L-T)\n\n\n
+
+In order to know what the ranking tiebreakers are for the current season, be sure to check the Game Manual
+            Section 5 about Tournaments. Generally speaking, a team will play around 10-12 matches in a
+            Qualifying Competition. Always send at least one member of your team to every match, even if
+            your robot is inoperable. If no one is there, your team receives 0 RP for that match and is
+            listed as a “No-Show.” Even if you find yourself ranked near the bottom, there is always a chance
+            you will get picked later on, so never lose hope! During the qualifying matches, there are a couple
+            things to remember for those who aren’t on the drive team:\n\n\n
+
+Make sure your team maintains a positive presence in the stands. Those who aren’t scouting
+            or on Pit Crew should be celebrating whenever your team is on the field, regardless
+            of performance. For more information, see the Team Spirit section.\n\n
+Always Scout, utilizing both Quantitative and Qualitative methods (see Strategy section for more
+            information on those), and most importantly communicate scouting data with the drive team.
+            You may have information about their opponents or partners that they could use in the match,
+            such as a weak spot of a good robot.\n\n
+Never leave your pits empty! Teams of judges are walking throughout the pits even
+            during matches to ask your team questions that are critical to your team’s
+            award success. You always want someone knowledgeable in non-STEM
+            and STEM departments available to interview with judges. \n\n\n
+
+	Once Friday is complete, it will be pretty clear which teams will end up being
+            ranked within the top eight, even though the qualification matches usually
+            spill into Saturday morning. It is recommended that your Strategy team gathers
+            together Friday night and builds a kind of “Pick List” of teams you want to keep
+            your eye on for the next day. Whether you are ranked highly and are looking for teams to pick
+            , or you are looking for teams to advertise yourself to if you’re ranked lower, having
+            a pick list going into the last day of competition is always a good idea. This strategy
+            meeting is where the data from Pit, Qualitative, and Quantitative scouting are all utilized.
+            See the Strategy section for more info on the usage of scouting data. \n\n\n
+
+	Entering the final day of competition, the qualification matches will continue to run for most of the morning,
+            and alliance selections usually begin during lunch. Since the pick list is already made,
+            have your scouters mostly focus on those teams. Since you are now able to filter out the teams
+            you don’t need to watch, you can have your scouting teams relax a little bit. Again, be sure to communicate
+            any important information about those teams to the strategy team! It is now more important than
+            ever to tell them if a robot that you previously thought was good breaks or has issues, because
+            it can be devastating to find out your alliance partner in eliminations can’t perform.
+            As lunch draws nearer, and qualification matches start to wind down, it’s time to settle in,
+            because Alliance Selections are about to begin, and Elimination Matches are soon to follow! \n\n\n\n
+
+Elimination Matches\n\n\n
+
+	On Saturday, the elimination matches begin after lunch normally. Alliance selection occurs before then, this is how it works: \n\n
+
+Every team sends one representative to the field. Generally you should send the person on your team who is most knowledgeable about the pick list and other teams.
+The representatives from the top eight teams stand on the field as they are announced. The announcer will give a quick explanation of the system and then ask the first seeded team who they want to pick.
+Once they have asked, a team can choose to accept or decline. Remember: if you decline an alliance, you can NOT be picked by any other team.
+Once the a team accepts an invitation, they move on to the next seeded team. If one of the teams in the top 8 is picked by another, each spot moves up and the next highest ranked team becomes an alliance captain.
+They will continue down the line until the eighth team makes their first pick. Then, they go back up the line (also known as a “snake draft”), where each team makes a second selection, starting with the eighth seed.
+By the end of selections, if your team is not picked, don’t leave! Just because your robot wasn’t picked doesn’t mean you can’t win awards or be chosen as a backup robot if another alliance’s robot breaks. Just settle in, keep answering judge questions, and have a good time watching elimination matches! Judges also look for teams acting gracious and professional when they lose too!\n\n
+
+	If you are lucky enough to participate in elimination matches, it is important to communicate with your alliance. It is no longer randomly selected, these two other teams are in it for the long haul with you. You need to formulate a strategy, suited to counter your opposing alliance’s strategy. Again, scouting information from Qualification matches comes in handy for this. However, it is not as important to scout during elimination matches, since alliances have already been selected. Just be sure to keep in touch with any major events that happen, like a robot getting destroyed or dropping connection.
+
+When the matches begin, pay attention to the schedule, and queue for matches like normal. Important to remember: NEVER take a match for granted! Even if you’re the first alliance against the eighth seed, don’t expect to win due to your rank alone. Upsets don’t only occur in Robotics, they are quite common! If you lose your first match, don’t fret. Elimination matches are played in two out of three series. All you need to do to move on is win two matches. In order to win the competition, you have to win six matches total, or three levels of eliminations. Remember, now that rankings no longer matter, the only thing that matters is getting more points than the other team, as opposed to the Ranking Points of Qualifications. Another important aspect to remember is that the first tiebreaker for elimination matches is penalties: whichever team has fewer penalties wins ties. This may seem unlikely, but when two highly skilled alliances play against each other, ties can be quite common. An example of this was the 2016 FIRST Stronghold World Championship Finals. Going into the third and final match, each alliance had one win, and the third match was a tie. However, one alliance had two minor penalties, which cost them the Championship. Besides these nuances, elimination matches run identically to Qualification matches, and follow the same structure as described above. Once the elimination matches have completed, and your team is either sitting in the stands or celebrating a competition win, prepare yourselves for the Award Ceremony.
+
+The Award Ceremony begins shortly after the final elimination matches, and you should aim to have your entire team in the stands! Prepare for about two hours of standing and clapping and cheering, because it’s common courtesy to cheer for every team’s victory. The awards you can win are explained in more detail in the Game Manual Section 6, so look there for more information on them. If your team is called down to the field, walk down the designated path, receive your trophy, and shake the judges’ and referees’ hands, then sit back down and listen for the next award. Once the Award Ceremony is complete, and Closing Ceremonies finishes, you are free to go! Pack up your pits, re-bag your robot, and prepare for your next competition if you have one! Remember: whether or not you qualify for the next round of competition, enjoy the experience of this one! There is nothing else in the world like a robotics competition, so be sure to take it all in.
+\n\n\n\n
+Higher Levels of Competition\n\n\n
+
+	If your area or state competes using a Regional system, qualifying off of a Regional Competition assures you a spot in the World Championships!
+            There are two World Championship competitions, so be sure you know which one you will
+            attend. Here are the locations for the next few years:\n\n\n
+2017: North Championship in St. Louis, MO and South Championship in Houston, TX\n\n
+2018+: North Championship in Detroit, MI and South Championship in Houston, TX\n\n\n
+For more information on which championship your team should attend, look up your team information on www.thebluealliance.com or follow this link to the map:
+http://www.firstinspires.org/sites/default/files/uploads/championship/first-championship-maps-2017-2018.pdf#page=2\n\n
+
+	World championships runs the same as normal competitions, except there are four divisions at each Championship. These divisions work the same as regular competitions, and then the winning alliances of each division play against each other on what is known as the Einstein Elimination rounds. Just having a chance to compete in the World Championships is a unique experience, and you are very lucky if you get to see it firsthand! Always remember to have fun regardless of your performance, because after everything, FIRST is more than robots.
+</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_departments_programming.xml -->
+    <eat-comment/>
+    <string-array name="robot_assembly">
+        <item>fragment_pager_item_no_image</item>
+        <item>Putting it All Together</item>
+        <item>When you are putting all of your components together, it is important to keep the robot
+            as a whole in mind. Be sure that your mechanisms will not interfere with each other and
+            that the mechanisms as well as the motors and electrical components that are required
+            have enough room. Also think about the order in which you should attach the components.
+            It\'s a good idea to start with your drive train or frame and then attach the other
+            components onto it where they belong. Make sure you leave a little room for error on
+            your frame, it\'s never fun when you have to make more room around your mechanisms so
+            they can fit together properly. Keep your overall goal in mind and go one step at a time.</item>
+        <item/>
+    </string-array>
+    <string-array name="robot_assemblySpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Juntar Todo</item>
+        <item>Cuando estén juntando todos los componentes, es importante tener presenta la idea del robot
+como uno solo. Estén seguros que sus mecanismos no interfieran el uno con el otro así como que
+los motores y componentes eléctricos que se requieren tengan suficiente espacio. También deben
+pensar en el orden en el cual van a juntar los componentes. Es una buena idea empezar con el drive
+train o con el armazón y luego montar las demás piezas en su lugar. Asegúrense que dejen muy
+poco espacio para errores, nunca es divertido cuando tiene que hacer espacio alrededor de los
+mecanismos para juntaron de mañera adecuada. Mantengan su meta global en mente y vayan pasa
+a paso.</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_departments_strategy.xml -->
+    <eat-comment/>
+    <string-array name="scouting_match">
+        <item>fragment_pager_item_no_image</item>
+        <item>Match Scouting</item>
+        <item>One of the most essential roles in a team at competition is scouting. Observing other
+            robots during matches will help your team make decisions about alliance partners, as
+            well as provide inspiration for any future changes to your strategy. Your team should
+            look for other robots that are compatible with your own – having three identical robots
+            on the same team probably isn\'t the best strategy. Even if your team is not going to be
+            an alliance captain it is important that you keep scouting; if your team is picked your
+            alliance partners may turn to you for help picking the third robot and for strategy.
+            Scouting in the stands is designed to give your team as much information as possible
+            about the performance of other robots. Your team can record both qualitative and
+            quantitative information, but should have a standardized system for recording information.
+            &lt;br>On-the-field performance depends on more than just the robot, it also depends
+            on the driver. Have your scouting crew look at how other teams perform under stress,
+            and make note of any flaws in their strategy that your team can exploit.</item>
+        <item/>
+    </string-array>
+    <string-array name="scouting_matchSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Scouting en los partidos</item>
+        <item>Hacer scouting es uno de los roles mas esenciales durante la competencia. Observar a otros
+robots durante la competencia le ayudara a su equipo a tomar decisiones sobre sus aliados,
+así como ser una fuente de inspiración para cualquier cambio a que vayan a hacer a su
+estrategia. Su equipo debe buscar a robots que sean compatibles con el suyo - tener tres
+robots idénticos en un mismo equipo probablemente no sea la mejor estrategia. Aun cuando
+su equipo no vaya a ser capitán de una alianza, es importante seguir con el scouting; si su
+equipo es elegido, sus aliados pueden pedirles ayuda para seleccionar un tercer robot o una
+estrategia. Scouting en las gradas esta diseñado para darle a su equipo la mayor cantidad de
+información posible a su equipo sobre los demás robots. Su equipo puede anotar información
+cualitativa y cuantitativa, pero debe tener un sistema estandarizado para hacerlo. En la
+cancha, el desempeño no sólo depende en el robot, también en el conductor. Hagan que su
+equipo de scouting se fije en como se desempeñan otros equipos cuando están bajo estrés,
+y anoten cualquier falla en su estrategia de la cual ustedes se puedan aprovechar.</item>
+        <item/>
+    </string-array>
+    <string-array name="scouting_pits">
+        <item>fragment_pager_item_no_image</item>
+        <item>Pit Scouting</item>
+        <item>Pit scouting is a great way to see every robot up close. You are able to see specifics
+            of the robot\'s design and also some features not necessarily apparent on the field. As a
+            team you should record important details such as the weight, height, drive-train and
+            scoring capabilities. While pit scouting can\'t give you information about on the field
+            performance, it can give your team an idea of what robots to look out for and what robots
+            to consider for specialty purposes, such as pushing opponents out of the way. Make sure
+            to take pictures of each robot to help connect each team with their robot.</item>
+        <item/>
+    </string-array>
+    <string-array name="scouting_pitsSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Scouting en los Pits</item>
+        <item>Hacer scouting en los pits es una muy buena manera de ver a todos los robots de cerca. Les
+permite ver cosas específicas del diseño del robot así como cosas que no son aparentes en
+la cancha. Como equipo, deben registrar detalles importantes como la altura, peso, ‘drive-
+train’, y capacidad para anotar. Mientras que hacer scouting en los pits no les puede
+proporcionar mucha información sobre el desempeño en la cancha del robot, les puede dar
+una idea de que robots mantener en cuenta y cuales considerar para situaciones especiales,
+como empujar a contrincantes por ejemplo. Asegúrense de tomar fotos de todos los robots
+para poder hacer la conexión entre los equipos y sus robots.</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_departments_spirit.xml -->
+    <eat-comment/>
+    <string-array name="spirit_importance">
+        <item>fragment_pager_item_no_image</item>
+        <item>Importance of Spirit</item>
+        <item>While at competitions it\'s important that you make your team known. The more noticed you
+            are by other teams, the more likely you are to get picked for alliance selections. You
+            also want to keep the competition energy high because it makes an even more exciting
+            atmosphere for everyone in the arena.</item>
+        <item/>
+    </string-array>
+    <string-array name="spirit_importanceSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>La importancia del Espíritu</item>
+        <item>Durante las competencias, es importante que den a conocer a su equipo. Mientras mas
+sepan de ustedes, es más probable que  los escojan en las alianzas. También quieren
+mantener la energía de competencia alta, pues hace que la atmósfera en la arena sea más
+emocionante para todos.</item>
+        <item/>
+    </string-array>
+    <string-array name="spirit_swag">
+        <item>fragment_pager_item_no_image</item>
+        <item>Swag</item>
+        <item>Swag is a giveaway item for other teams. Although swag is far from mandatory, it can
+            help advertise your team. Many teams do buttons, while at competition you can see people
+            completely covered in buttons. Other simple and cost effective ideas are pencils and
+            bracelets. Swag gets your team name and number out to other teams. Continue to keep in
+            mind your message, your image, and how you want other teams to remember you.</item>
+        <item/>
+    </string-array>
+    <string-array name="spirit_swagSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Swag/giveaways</item>
+        <item>Swag es un artículo de reglo para otros equipos. Aunque swag no es obligatorio, puede servir
+como propaganda para su equipo. Muchas equipos utilizan broches, durante las
+competencias puedes ver a gente cubierta en broches. Otras ideas fáciles y baratas son
+lápices y pulseras. Swag hace que el nombre y numero de tu equipo llegue a otros equipos.
+Tengan en mente su mensaje, su imagen y como quieren que los demás equipos se
+acuerden de ustedes.</item>
+        <item/>
+    </string-array>
+    <string-array name="spirit_team_image">
+        <item>fragment_pager_item_no_image</item>
+        <item>Team Image</item>
+        <item>Before competition it is important to develop a team image or look. This look can be
+            fun and exciting; teams wear everything from animal costumes to capes and crowns, each
+            team coming up with their own look. It can be difficult to make your own image, but just
+            keep in mind that it doesn\'t have to be crazy to be recognizable. As winners of the FIRST
+            World Championship Imagery Award, KING TeC shows that you don’t have to look over the top
+            for your team to stand out.
+            &lt;br>
+            Start with a team t-shirt. Make your team name and number easily read, this way if another
+            team or a judge is looking for your team, you’re easy to find. After developing a shirt, the
+            sky is the limit. Teams wear everything from matching shoes, to matching bracelets. Be creative
+            and remember to not shy far from your name. If teams will wonder how your mascot is relevant to
+            your name, it’s probably not the best idea.</item>
+        <item/>
+    </string-array>
+    <string-array name="spirit_team_imageSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Imagen del Equipo</item>
+        <item>Antes de la competencia, es importante desarrollar una imagen o atuendo. El atuendo puede
+ser algo divertido y emocionante; los equipos usan desde  disfraces de animales hasta capas
+y coronas, cada equipo con su propio atuendo. Puede ser difícil crear una imagen propia,
+pero tengan en cuenta que no tiene que ser extravagante para ser reconocida. Como
+campeones del FIRST World Imagery Award, KING TeC demostró que no necesitas estar
+excéntrico para destacar. Empiecen con una playera para el equipo. Hagan que el nombre y
+número de su equipo sea fácil de leer, así si un equipo o juez los está buscando los puede
+encontrar fácilmente. Después de crear su playera, el cielo es el límite. Los equipos usan
+desde zapatos hasta pulseras iguales. Sean creativos, y recuerden de no alejarse del
+nombre de su equipo.  Si los equipos se preguntan por que su mascota es relevante para su
+nombre, es probable que no sea la mejor idea.</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_departments_programming.xml -->
+    <eat-comment/>
+    <string-array name="thinking_about_programming">
+        <item>fragment_pager_item_no_image</item>
+        <item>Planning Programming</item>
+        <item>Even though it may seem early to start planning your programming, during Week 3 of build
+            season it is important to start narrowing down the specifics of your program. Think about
+            how your code will be organized, and determine who will be responsible for programming each
+            section of the robot.
+            &lt;br>Talk with your electrical department and find out how the robot is going to be wired!
+            Even if this information is tentative, it is helpful to know how your robot is configured,
+            especially what ports each system is plugged into. This is also an excellent time to
+            make sure your robot\'s firmware and computer\'s software is up to date. Not having the
+            right updates can cause major problems at competition, and may even prevent you from passing
+            inspection. Plan ahead so that your robot can compete!</item>
+        <item/>
+    </string-array>
+    <string-array name="thinking_about_programmingSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Planear la Programación</item>
+        <item>Aunque puede parecer un poco precipitado empezar a planear la programación, durante la Semana
+3 de la temporada, es importante empezar a definir las partes específicas del programa. Piensen
+como van a organizar el código y determinen quién va a ser el responsable por programar cada
+parte del robot. Hablan con el departamento eléctrico del equipo y averigüen como va a estar
+conectado el robot. Aunque esta información no sea definitiva, es muy útil saber como va a estar
+configurado el robot, especialmente en que puertos está conectado casa sistema. Este también es el
+momento oportuno para asegurarse que el firmware de su robot esté actualizado. No tener las
+actualizaciones correctas puede causar problemas graves en la competencia, e incluso que no
+pasen la inspección. Planeen las cosas con tiempo para que sí robot pueda competir.</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_other_mentors.xml -->
+    <eat-comment/>
+    <string-array name="tournaments_about">
+        <item>fragment_pager_item_no_image</item>
+        <item>Why Off-Season Tournaments</item>
+        <item>The main reason for off season regionals are to train rookie team members and get back
+            into the swing of robotics. Before the real regionals begin, it is very useful to give
+            the new team members a taste of what to expect. These mini competitions also give teams
+            a great opportunity to train members whether it is in driving, scouting or spirit.
+            These competitions are hosted by FRC teams and are one day events normally held in
+            gymnasiums of the hosting team. Around thirty teams can be found at these regionals.
+            Official FIRST fields are shipped to the location and official FIRST judges, refs, and
+            tech managers are running the event. These regionals provide a nice opportunity for
+            FIRST volunteers to get trained into leadership positions. Awards are given out and
+            winners are crowned all in good fun.</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/content_other_fundraising.xml -->
+    <eat-comment/>
+    <string-array name="tweaking_programming">
+        <item>fragment_pager_item_no_image</item>
+        <item>Tweaking Programming</item>
+        <item>While you hopefully have the main functionality of your robot programmed by this point,
+            odds are you won\'t get everything perfect the first time. Your programmers should be focusing
+            on fixing the major bugs and getting everything working, but after that it is time to bring
+            in the drive team.
+            &lt;br>
+            Although programmers like to think they know everything about the robot,
+            it is important to remind them that they most likely won\'t be driving it at competition.
+            If they will be, your team has lucked out! If not, the programmers should sit down with the
+            drive team and fine tune the controls until the drivers are content.</item>
+        <item/>
+    </string-array>
+    <string-array name="tweaking_programmingSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>Ajustes de Programación</item>
+        <item>Esperemos que para este punto ya tengan programada la función principal de su robo t, lo
+más probable es que no les salga perfecto a la primera. Sus programadores deberían estarse
+concentrándonos en arreglar los problemas de programación y hacer que todo funcione,
+después de eso, es hora de traer a tu equipo de conductores. Aunque los programadores les
+gusta pensar que saben todo sobre robot, es importante recordarles que lo más probable es
+que no sean ellos quienes conduzcan el robot durante la competencia. Si sí van a manejar,
+su equipo tiene mucha suerte! Si no, los programadores necesitan sentarse con el equipo de
+conductores y hacer ajustes a los controles hasta que los conductores están satisfechos.</item>
+        <item/>
+    </string-array>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <attr format="reference" name="actionBarDivider"/>
+    <attr format="reference" name="actionBarItemBackground"/>
+    <attr format="dimension" name="actionBarSize"/>
+    <attr format="reference" name="actionBarSplitStyle"/>
+    <attr format="reference" name="actionBarStyle"/>
+    <attr format="reference" name="actionBarTabBarStyle"/>
+    <attr format="reference" name="actionBarTabStyle"/>
+    <attr format="reference" name="actionBarTabTextStyle"/>
+    <attr format="reference" name="actionBarWidgetTheme"/>
+    <attr format="reference" name="actionButtonStyle"/>
+    <attr format="reference" name="actionMenuTextAppearance"/>
+    <attr format="color|reference" name="actionMenuTextColor"/>
+    <attr format="reference" name="actionModeBackground"/>
+    <attr format="reference" name="actionModeCloseButtonStyle"/>
+    <attr format="reference" name="actionModeCloseDrawable"/>
+    <attr format="reference" name="actionModeCopyDrawable"/>
+    <attr format="reference" name="actionModeCutDrawable"/>
+    <attr format="reference" name="actionModeFindDrawable"/>
+    <attr format="reference" name="actionModePasteDrawable"/>
+    <attr format="reference" name="actionModePopupWindowStyle"/>
+    <attr format="reference" name="actionModeSelectAllDrawable"/>
+    <attr format="reference" name="actionModeShareDrawable"/>
+    <attr format="reference" name="actionModeSplitBackground"/>
+    <attr format="reference" name="actionModeStyle"/>
+    <attr format="reference" name="actionModeWebSearchDrawable"/>
+    <attr format="reference" name="actionOverflowButtonStyle"/>
+    <attr format="reference" name="activityChooserViewStyle"/>
+    <attr format="reference" name="buttonBarButtonStyle"/>
+    <attr format="reference" name="buttonBarStyle"/>
+    <attr format="reference" name="dividerHorizontal"/>
+    <attr format="reference" name="dividerVertical"/>
+    <attr format="reference" name="dropDownListViewStyle"/>
+    <attr format="dimension" name="height"/>
+    <attr format="reference" name="homeAsUpIndicator"/>
+    <attr format="boolean" name="isLightTheme"/>
+    <attr format="reference" name="listPopupWindowStyle"/>
+    <attr format="dimension" name="listPreferredItemHeight"/>
+    <attr format="dimension" name="listPreferredItemHeightLarge"/>
+    <attr format="dimension" name="listPreferredItemHeightSmall"/>
+    <attr format="dimension" name="listPreferredItemPaddingLeft"/>
+    <attr format="dimension" name="listPreferredItemPaddingRight"/>
+    <attr format="reference" name="searchDropdownBackground"/>
+    <attr format="dimension" name="searchResultListItemHeight"/>
+    <attr format="reference" name="searchViewAutoCompleteTextView"/>
+    <attr format="reference" name="searchViewCloseIcon"/>
+    <attr format="reference" name="searchViewEditQuery"/>
+    <attr format="reference" name="searchViewEditQueryBackground"/>
+    <attr format="reference" name="searchViewGoIcon"/>
+    <attr format="reference" name="searchViewSearchIcon"/>
+    <attr format="reference" name="searchViewTextField"/>
+    <attr format="reference" name="searchViewTextFieldRight"/>
+    <attr format="reference" name="searchViewVoiceIcon"/>
+    <attr format="reference" name="selectableItemBackground"/>
+    <attr format="reference" name="spinnerDropDownItemStyle"/>
+    <attr format="reference" name="spinnerStyle"/>
+    <attr format="reference" name="textAppearanceLargePopupMenu"/>
+    <attr format="reference" name="textAppearanceListItem"/>
+    <attr format="reference" name="textAppearanceListItemSmall"/>
+    <attr format="reference" name="textAppearanceSearchResultSubtitle"/>
+    <attr format="reference" name="textAppearanceSearchResultTitle"/>
+    <attr format="reference" name="textAppearanceSmallPopupMenu"/>
+    <attr format="reference|color" name="textColorSearchUrl"/>
+    <attr format="string" name="title"/>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
+    <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="abc_split_action_bar_is_narrow">true</bool>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/refs.xml -->
+    <eat-comment/>
+    <bool name="combine_content">false</bool>
+    <bool name="has_two_panes">false</bool>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <color name="abc_search_url_text_normal">#7fa87f</color>
+    <color name="abc_search_url_text_pressed">@android:color/black</color>
+    <color name="abc_search_url_text_selected">@android:color/black</color>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/res/values/values.xml -->
+    <eat-comment/>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <declare-styleable name="ActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr name="title"/><attr format="string" name="subtitle"/><attr format="reference" name="titleTextStyle"/><attr format="reference" name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr format="reference" name="divider"/><attr format="reference" name="background"/><attr format="reference|color" name="backgroundStacked"/><attr format="reference|color" name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr format="dimension" name="itemPadding"/></declare-styleable>
+    <declare-styleable name="ActionBarLayout"><attr name="android:layout_gravity"/></declare-styleable>
+    <declare-styleable name="ActionBarWindow"><attr format="boolean" name="windowActionBar"/><attr format="boolean" name="windowActionBarOverlay"/><attr format="boolean" name="windowSplitActionBar"/><attr format="dimension|fraction" name="windowFixedWidthMajor"/><attr format="dimension|fraction" name="windowFixedHeightMinor"/><attr format="dimension|fraction" name="windowFixedWidthMinor"/><attr format="dimension|fraction" name="windowFixedHeightMajor"/></declare-styleable>
+    <declare-styleable name="ActionMenuItemView"><attr name="android:minWidth"/></declare-styleable>
+    <declare-styleable name="ActionMenuView"/>
+    <declare-styleable name="ActionMode"><attr name="titleTextStyle"/><attr name="subtitleTextStyle"/><attr name="background"/><attr name="backgroundSplit"/><attr name="height"/></declare-styleable>
+    <declare-styleable name="ActivityChooserView"><attr format="string" name="initialActivityCount"/><attr format="reference" name="expandActivityOverflowButtonDrawable"/></declare-styleable>
+    <declare-styleable name="CompatTextView"><attr format="reference|boolean" name="textAllCaps"/></declare-styleable>
+    <declare-styleable name="LinearLayoutICS"><attr name="divider"/><attr name="showDividers"><flag name="none" value="0"/><flag name="beginning" value="1"/><flag name="middle" value="2"/><flag name="end" value="4"/></attr><attr format="dimension" name="dividerPadding"/></declare-styleable>
+    <declare-styleable name="MenuGroup"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:checkableBehavior"/><attr name="android:visible"/><attr name="android:enabled"/></declare-styleable>
+    <declare-styleable name="MenuItem"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:title"/><attr name="android:titleCondensed"/><attr name="android:icon"/><attr name="android:alphabeticShortcut"/><attr name="android:numericShortcut"/><attr name="android:checkable"/><attr name="android:checked"/><attr name="android:visible"/><attr name="android:enabled"/><attr name="android:onClick"/><attr name="showAsAction"><flag name="never" value="0"/><flag name="ifRoom" value="1"/><flag name="always" value="2"/><flag name="withText" value="4"/><flag name="collapseActionView" value="8"/></attr><attr format="reference" name="actionLayout"/><attr format="string" name="actionViewClass"/><attr format="string" name="actionProviderClass"/></declare-styleable>
+    <declare-styleable name="MenuView"><attr name="android:itemTextAppearance"/><attr name="android:horizontalDivider"/><attr name="android:verticalDivider"/><attr name="android:headerBackground"/><attr name="android:itemBackground"/><attr name="android:windowAnimationStyle"/><attr name="android:itemIconDisabledAlpha"/><attr name="android:preserveIconSpacing"/></declare-styleable>
+    <declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/></declare-styleable>
+    <declare-styleable name="SearchView"><attr format="boolean" name="iconifiedByDefault"/><attr name="android:maxWidth"/><attr format="string" name="queryHint"/><attr name="android:imeOptions"/><attr name="android:inputType"/></declare-styleable>
+    <declare-styleable name="Spinner"><attr format="reference" name="prompt"/><attr format="enum" name="spinnerMode"><enum name="dialog" value="0"/><enum name="dropdown" value="1"/></attr><attr name="android:dropDownSelector"/><attr name="android:popupBackground"/><attr name="android:dropDownVerticalOffset"/><attr name="android:dropDownHorizontalOffset"/><attr name="android:dropDownWidth"/><attr format="reference" name="popupPromptView"/><attr name="android:gravity"/><attr format="boolean" name="disableChildrenWhenDisabled"/></declare-styleable>
+    <declare-styleable name="Theme"><attr format="reference" name="actionDropDownStyle"/><attr format="dimension" name="dropdownListPreferredItemHeight"/><attr format="reference" name="popupMenuStyle"/><attr format="dimension" name="panelMenuListWidth"/><attr format="reference" name="panelMenuListTheme"/><attr format="reference" name="listChoiceBackgroundIndicator"/></declare-styleable>
+    <declare-styleable name="View"><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr name="android:focusable"/></declare-styleable>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="abc_action_bar_default_height">48dip</dimen>
+    <dimen name="abc_action_bar_icon_vertical_padding">8dip</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">40dp</dimen>
+    <dimen name="abc_action_bar_stacked_max_height">48dp</dimen>
+    <dimen name="abc_action_bar_stacked_tab_max_width">180dp</dimen>
+    <dimen name="abc_action_bar_subtitle_bottom_margin">5dip</dimen>
+    <dimen name="abc_action_bar_subtitle_text_size">14dp</dimen>
+    <dimen name="abc_action_bar_subtitle_top_margin">-3dp</dimen>
+    <dimen name="abc_action_bar_title_text_size">18dp</dimen>
+    <dimen name="abc_action_button_min_width">56dip</dimen>
+    <dimen name="abc_config_prefDialogWidth">320dp</dimen>
+    <dimen name="abc_dropdownitem_icon_width">32dip</dimen>
+    <dimen name="abc_dropdownitem_text_padding_left">8dip</dimen>
+    <dimen name="abc_dropdownitem_text_padding_right">8dip</dimen>
+    <dimen name="abc_panel_menu_list_width">296dp</dimen>
+    <dimen name="abc_search_view_preferred_width">320dip</dimen>
+    <dimen name="abc_search_view_text_min_width">160dip</dimen>
+    <item name="dialog_fixed_height_major" type="dimen">80%</item>
+    <item name="dialog_fixed_height_minor" type="dimen">100%</item>
+    <item name="dialog_fixed_width_major" type="dimen">320dp</item>
+    <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
+    <item name="action_bar_activity_content" type="id"/>
+    <item name="action_menu_divider" type="id"/>
+    <item name="action_menu_presenter" type="id"/>
+    <item name="home" type="id"/>
+    <item name="progress_circular" type="id"/>
+    <item name="progress_horizontal" type="id"/>
+    <integer name="abc_max_action_buttons">2</integer>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="about_kt">KING TeC is more than just a robotics team. We have been changing our
+        culture for more than seven years by competing in world class robotics competitions while
+        working together with our sponsors, school, community, and volunteers. By working with FIRST,
+        the premiere robotics competition of its kind, KING TeC provides nearly unlimited technological
+        opportunities to grow young minds within our community into the technology leaders of tomorrow.
+        Find out more about KING TeC at www.kingtec2169.com.</string>
+    <string name="about_name">About KING TeC</string>
+    <string name="app_name">Survival Guide</string>
+    <string name="contact_us_name">Contact Us</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="search_name">Search</string>
+    <string name="settings_name">Preferences</string>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <style name="TextAppearance.AppCompat.Base.CompactMenu.Dialog" parent="android:TextAppearance.Medium">
+        <item name="android:textColor">@android:color/primary_text_light</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Base.SearchResult" parent="">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Base.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Base.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large" parent="android:TextAppearance.Widget">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small" parent="android:TextAppearance.Widget">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Light.Base.SearchResult" parent="TextAppearance.AppCompat.Base.SearchResult">
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Light.Base.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Light.Base.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large"/>
+    <style name="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small"/>
+    <style name="TextAppearance.AppCompat.Light.SearchResult.Subtitle" parent="TextAppearance.AppCompat.Light.Base.SearchResult.Subtitle"/>
+    <style name="TextAppearance.AppCompat.Light.SearchResult.Title" parent="TextAppearance.AppCompat.Light.Base.SearchResult.Title"/>
+    <style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Large"/>
+    <style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Small"/>
+    <style name="TextAppearance.AppCompat.SearchResult.Subtitle" parent="TextAppearance.AppCompat.Base.SearchResult.Subtitle"/>
+    <style name="TextAppearance.AppCompat.SearchResult.Title" parent="TextAppearance.AppCompat.Base.SearchResult.Title"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Menu"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Subtitle" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle.Inverse"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Title"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Title.Inverse"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Subtitle" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Subtitle.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle.Inverse"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Title" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Title"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Title.Inverse"/>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Menu" parent="android:TextAppearance.Small">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle" parent="android:TextAppearance.Small">
+        <item name="android:textSize">@dimen/abc_action_bar_subtitle_text_size</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle.Inverse" parent="android:TextAppearance.Small.Inverse">
+        <item name="android:textSize">@dimen/abc_action_bar_subtitle_text_size</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Title" parent="android:TextAppearance.Medium">
+        <item name="android:textSize">@dimen/abc_action_bar_title_text_size</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Title.Inverse" parent="android:TextAppearance.Medium.Inverse">
+        <item name="android:textSize">@dimen/abc_action_bar_title_text_size</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle" parent="android:TextAppearance.Small">
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle.Inverse" parent="android:TextAppearance.Small.Inverse">
+        <item name="android:textColor">?android:attr/textColorSecondaryInverse</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Title" parent="android:TextAppearance.Medium"/>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Title.Inverse" parent="android:TextAppearance.Medium.Inverse"/>
+    <style name="TextAppearance.AppCompat.Widget.Base.DropDownItem" parent="android:TextAppearance.Small">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.DropDownItem" parent="TextAppearance.AppCompat.Widget.Base.DropDownItem"/>
+    <style name="TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large"/>
+    <style name="TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small"/>
+    <style name="TextAppearance.Widget.AppCompat.Base.ExpandedMenu.Item" parent="android:TextAppearance.Medium">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+    </style>
+    <style name="TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="TextAppearance.Widget.AppCompat.Base.ExpandedMenu.Item"/>
+    <style name="Theme.AppCompat" parent="Theme.Base.AppCompat">
+        <item name="isLightTheme">false</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+        <item name="searchResultListItemHeight">58dip</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchDropdownBackground">@drawable/abc_search_dropdown_dark</item>
+        <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_dark</item>
+        <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_dark</item>
+        <item name="searchViewCloseIcon">@drawable/abc_ic_clear</item>
+        <item name="searchViewSearchIcon">@drawable/abc_ic_search</item>
+        <item name="searchViewGoIcon">@drawable/abc_ic_go</item>
+        <item name="searchViewVoiceIcon">@drawable/abc_ic_voice_search</item>
+        <item name="searchViewEditQuery">@drawable/abc_ic_commit_search_api_holo_dark</item>
+        <item name="searchViewEditQueryBackground">?attr/selectableItemBackground</item>
+        <item name="searchViewAutoCompleteTextView">            @style/Widget.AppCompat.AutoCompleteTextView</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text_holo</item>
+        <item name="textAppearanceSearchResultTitle">            @style/TextAppearance.AppCompat.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_dark</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
+    </style>
+    <style name="Theme.AppCompat.Base.CompactMenu" parent="">
+        <item name="android:itemTextAppearance">            @style/TextAppearance.Widget.AppCompat.ExpandedMenu.Item</item>
+        <item name="android:listViewStyle">@style/Widget.AppCompat.ListView.Menu</item>
+    </style>
+    <style name="Theme.AppCompat.Base.CompactMenu.Dialog" parent="">
+        <item name="android:itemTextAppearance">            @style/TextAppearance.AppCompat.Base.CompactMenu.Dialog</item>
+        <item name="android:listViewStyle">@android:style/Widget.ListView.Menu</item>
+    </style>
+    <style name="Theme.AppCompat.CompactMenu" parent="Theme.AppCompat.Base.CompactMenu"/>
+    <style name="Theme.AppCompat.CompactMenu.Dialog" parent="Theme.AppCompat.Base.CompactMenu.Dialog"/>
+    <style name="Theme.AppCompat.DialogWhenLarge" parent="Theme.Base.AppCompat.DialogWhenLarge"/>
+    <style name="Theme.AppCompat.Light" parent="Theme.Base.AppCompat.Light">
+        <item name="isLightTheme">true</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.Light.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+        <item name="searchResultListItemHeight">58dip</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.Light.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.Light.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.Light.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchDropdownBackground">@drawable/abc_search_dropdown_light</item>
+        <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_light</item>
+        <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_light</item>
+        <item name="searchViewCloseIcon">@drawable/abc_ic_clear_holo_light</item>
+        <item name="searchViewSearchIcon">@drawable/abc_ic_search_api_holo_light</item>
+        <item name="searchViewGoIcon">@drawable/abc_ic_go_search_api_holo_light</item>
+        <item name="searchViewVoiceIcon">@drawable/abc_ic_voice_search_api_holo_light</item>
+        <item name="searchViewEditQuery">@drawable/abc_ic_commit_search_api_holo_light</item>
+        <item name="searchViewEditQueryBackground">?attr/selectableItemBackground</item>
+        <item name="searchViewAutoCompleteTextView">            @style/Widget.AppCompat.Light.AutoCompleteTextView</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text_holo</item>
+        <item name="textAppearanceSearchResultTitle">            @style/TextAppearance.AppCompat.Light.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.Light.SearchResult.Subtitle</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_light</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.Light.ActivityChooserView</item>
+    </style>
+    <style name="Theme.AppCompat.Light.DarkActionBar" parent="Theme.Base.AppCompat.Light.DarkActionBar">
+        <item name="isLightTheme">true</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.Light.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+        <item name="searchResultListItemHeight">58dip</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.Light.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchDropdownBackground">@drawable/abc_search_dropdown_dark</item>
+        <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_dark</item>
+        <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_dark</item>
+        <item name="searchViewCloseIcon">@drawable/abc_ic_clear</item>
+        <item name="searchViewSearchIcon">@drawable/abc_ic_search</item>
+        <item name="searchViewGoIcon">@drawable/abc_ic_go</item>
+        <item name="searchViewVoiceIcon">@drawable/abc_ic_voice_search</item>
+        <item name="searchViewEditQuery">@drawable/abc_ic_commit_search_api_holo_dark</item>
+        <item name="searchViewEditQueryBackground">?attr/selectableItemBackground</item>
+        <item name="searchViewAutoCompleteTextView">            @style/Widget.AppCompat.AutoCompleteTextView</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text_holo</item>
+        <item name="textAppearanceSearchResultTitle">            @style/TextAppearance.AppCompat.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_dark</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
+    </style>
+    <style name="Theme.AppCompat.Light.DialogWhenLarge" parent="Theme.Base.AppCompat.Light.DialogWhenLarge"/>
+    <style name="Theme.Base" parent="android:Theme"/>
+    <style name="Theme.Base.AppCompat" parent="Theme.Base">
+        <item name="windowActionBar">true</item>
+        <!-- Remove system title bars; we will add the action bar ourselves. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_holo_dark</item>
+        <item name="dividerVertical">@drawable/abc_list_divider_holo_dark</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_holo_dark</item>
+        <item name="listPreferredItemHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">8dip</item>
+        <item name="listPreferredItemPaddingRight">8dip</item>
+        <item name="textAppearanceListItem">?android:attr/textAppearanceMedium</item>
+        <item name="textAppearanceListItemSmall">?android:attr/textAppearanceMedium</item>
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.ActionBar</item>
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarSize">@dimen/abc_action_bar_default_height</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
+        <item name="actionMenuTextAppearance">            @style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_dark</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_dark</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+    </style>
+    <style name="Theme.Base.AppCompat.Dialog.FixedSize" parent="android:Theme.Dialog">
+        <item name="windowFixedWidthMajor">@dimen/dialog_fixed_width_major</item>
+        <item name="windowFixedWidthMinor">@dimen/dialog_fixed_width_minor</item>
+        <item name="windowFixedHeightMajor">@dimen/dialog_fixed_height_major</item>
+        <item name="windowFixedHeightMinor">@dimen/dialog_fixed_height_minor</item>
+        <item name="windowActionBar">true</item>
+        <!-- Remove system title bars; we will add the action bar ourselves. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="dividerVertical">@drawable/abc_list_divider_holo_dark</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_holo_dark</item>
+        <item name="listPreferredItemHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">8dip</item>
+        <item name="listPreferredItemPaddingRight">8dip</item>
+        <item name="textAppearanceListItem">?android:attr/textAppearanceMedium</item>
+        <item name="textAppearanceListItemSmall">?android:attr/textAppearanceMedium</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_dark</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_dark</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+    </style>
+    <style name="Theme.Base.AppCompat.Dialog.Light.FixedSize" parent="Theme.Base.AppCompat.Dialog.FixedSize"/>
+    <style name="Theme.Base.AppCompat.DialogWhenLarge" parent="Theme.Base.AppCompat"/>
+    <style name="Theme.Base.AppCompat.Light" parent="Theme.Base.Light">
+        <item name="windowActionBar">true</item>
+        <!-- Remove system title bars; we will add the action bar ourselves. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_light</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_holo_light</item>
+        <item name="dividerVertical">@drawable/abc_list_divider_holo_light</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_holo_light</item>
+        <item name="listPreferredItemHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">8dip</item>
+        <item name="listPreferredItemPaddingRight">8dip</item>
+        <item name="textAppearanceListItem">?android:attr/textAppearanceMedium</item>
+        <item name="textAppearanceListItemSmall">?android:attr/textAppearanceMedium</item>
+
+        <!-- Action Bar Styles -->
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.Light.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.Light.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.Light.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">            @style/Widget.AppCompat.Light.ActionButton.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.Light.ActionBar</item>
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarSize">@dimen/abc_action_bar_default_height</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
+        <item name="actionMenuTextAppearance">            @style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_light</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_light</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_light</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.Light.ActionButton.CloseMode</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">            @style/Widget.AppCompat.Light.Spinner.DropDown.ActionBar</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_light</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_light</item>
+    </style>
+    <style name="Theme.Base.AppCompat.Light.DarkActionBar" parent="Theme.Base.AppCompat.Light">
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_holo_dark</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse</item>
+        <item name="actionBarWidgetTheme">@style/Theme.AppCompat</item>
+        <item name="actionBarDivider">@drawable/abc_list_divider_holo_dark</item>
+        <item name="actionBarItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.Light.ActionBar.TabView.Inverse</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.Light.ActionBar.TabBar.Inverse</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.Light.ActionBar.TabText.Inverse</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryInverseDisableOnly</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.Light.ActionMode.Inverse</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_dark</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
+
+        <!-- Panel attributes -->
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_dark</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+    </style>
+    <style name="Theme.Base.AppCompat.Light.DialogWhenLarge" parent="Theme.Base.AppCompat.Light"/>
+    <style name="Theme.Base.Light" parent="android:Theme.Light"/>
+    <style name="Widget.AppCompat.ActionBar" parent="Widget.AppCompat.Base.ActionBar"/>
+    <style name="Widget.AppCompat.ActionBar.Solid" parent="Widget.AppCompat.Base.ActionBar.Solid"/>
+    <style name="Widget.AppCompat.ActionBar.TabBar" parent="Widget.AppCompat.Base.ActionBar.TabBar"/>
+    <style name="Widget.AppCompat.ActionBar.TabText" parent="Widget.AppCompat.Base.ActionBar.TabText"/>
+    <style name="Widget.AppCompat.ActionBar.TabView" parent="Widget.AppCompat.Base.ActionBar.TabView"/>
+    <style name="Widget.AppCompat.ActionButton" parent="Widget.AppCompat.Base.ActionButton"/>
+    <style name="Widget.AppCompat.ActionButton.CloseMode" parent="Widget.AppCompat.Base.ActionButton.CloseMode"/>
+    <style name="Widget.AppCompat.ActionButton.Overflow" parent="Widget.AppCompat.Base.ActionButton.Overflow"/>
+    <style name="Widget.AppCompat.ActionMode" parent="Widget.AppCompat.Base.ActionMode"/>
+    <style name="Widget.AppCompat.ActivityChooserView" parent="Widget.AppCompat.Base.ActivityChooserView"/>
+    <style name="Widget.AppCompat.AutoCompleteTextView" parent="Widget.AppCompat.Base.AutoCompleteTextView"/>
+    <style name="Widget.AppCompat.Base.ActionBar" parent="">
+        <item name="displayOptions">useLogo|showHome|showTitle</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="height">?attr/actionBarSize</item>
+        <item name="homeLayout">@layout/abc_action_bar_home</item>
+        <item name="titleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle</item>
+        <item name="background">@drawable/abc_ab_transparent_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_transparent_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_transparent_dark_holo</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="progressBarStyle">@style/Widget.AppCompat.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.AppCompat.ProgressBar</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionBar.Solid" parent="Widget.AppCompat.Base.ActionBar">
+        <item name="background">@drawable/abc_ab_solid_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_solid_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_solid_dark_holo</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionBar.TabBar" parent="">
+        <item name="divider">?attr/actionBarDivider</item>
+        <item name="showDividers">middle</item>
+        <item name="dividerPadding">12dip</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionBar.TabText" parent="">
+        <item name="android:textAppearance">@null</item>
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:maxLines">2</item>
+        <item name="textAllCaps">true</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionBar.TabView" parent="">
+        <item name="android:background">@drawable/abc_tab_indicator_ab_holo</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingLeft">16dip</item>
+        <item name="android:paddingRight">16dip</item>
+        <item name="android:minWidth">80dip</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionButton" parent="">
+        <item name="android:background">?attr/actionBarItemBackground</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:minWidth">@dimen/abc_action_button_min_width</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="android:gravity">center</item>
+        <item name="android:maxLines">2</item>
+        <item name="textAllCaps">@bool/abc_config_actionMenuItemAllCaps</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionButton.CloseMode" parent="Widget.AppCompat.Base.ActionButton"/>
+    <style name="Widget.AppCompat.Base.ActionButton.Overflow" parent="Widget.AppCompat.Base.ActionButton">
+        <item name="android:src">@drawable/abc_ic_menu_moreoverflow_normal_holo_dark</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionMode" parent="">
+        <item name="background">?attr/actionModeBackground</item>
+        <item name="backgroundSplit">?attr/actionModeSplitBackground</item>
+        <item name="height">?attr/actionBarSize</item>
+        <item name="titleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionMode.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionMode.Subtitle</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActivityChooserView" parent="">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/abc_ab_share_pack_holo_dark</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="showDividers">middle</item>
+        <item name="dividerPadding">6dip</item>
+    </style>
+    <style name="Widget.AppCompat.Base.AutoCompleteTextView" parent="android:Widget.AutoCompleteTextView">
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_dark</item>
+    </style>
+    <style name="Widget.AppCompat.Base.DropDownItem.Spinner" parent="">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Widget.DropDownItem</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ListPopupWindow" parent="">
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_dark</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ListView.DropDown" parent="android:Widget.ListView">
+        <item name="android:listSelector">@drawable/abc_list_selector_holo_dark</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ListView.Menu" parent="android:Widget.ListView.Menu">
+        <item name="android:listSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:divider">?attr/dividerHorizontal</item>
+    </style>
+    <style name="Widget.AppCompat.Base.PopupMenu" parent="@style/Widget.AppCompat.Base.ListPopupWindow"/>
+    <style name="Widget.AppCompat.Base.ProgressBar" parent="android:Widget.ProgressBar">
+        <item name="android:minWidth">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:maxWidth">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:minHeight">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:maxHeight">@dimen/abc_action_bar_progress_bar_size</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ProgressBar.Horizontal" parent="android:Widget.ProgressBar.Horizontal"/>
+    <style name="Widget.AppCompat.Base.Spinner" parent="">
+        <item name="spinnerMode">dropdown</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_dark</item>
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_dark</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/abc_spinner_ab_holo_dark</item>
+    </style>
+    <style name="Widget.AppCompat.DropDownItem.Spinner" parent="Widget.AppCompat.Base.DropDownItem.Spinner"/>
+    <style name="Widget.AppCompat.Light.ActionBar" parent="Widget.AppCompat.Light.Base.ActionBar"/>
+    <style name="Widget.AppCompat.Light.ActionBar.Solid" parent="Widget.AppCompat.Light.Base.ActionBar.Solid"/>
+    <style name="Widget.AppCompat.Light.ActionBar.Solid.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.Solid.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabBar" parent="Widget.AppCompat.Light.Base.ActionBar.TabBar"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabBar.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabBar.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabText" parent="Widget.AppCompat.Light.Base.ActionBar.TabText"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabText.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabView" parent="Widget.AppCompat.Light.Base.ActionBar.TabView"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabView.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabView.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionButton" parent="Widget.AppCompat.Light.Base.ActionButton"/>
+    <style name="Widget.AppCompat.Light.ActionButton.CloseMode" parent="Widget.AppCompat.Light.Base.ActionButton.CloseMode"/>
+    <style name="Widget.AppCompat.Light.ActionButton.Overflow" parent="Widget.AppCompat.Light.Base.ActionButton.Overflow"/>
+    <style name="Widget.AppCompat.Light.ActionMode.Inverse" parent="Widget.AppCompat.Light.Base.ActionMode.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActivityChooserView" parent="Widget.AppCompat.Light.Base.ActivityChooserView"/>
+    <style name="Widget.AppCompat.Light.AutoCompleteTextView" parent="Widget.AppCompat.Light.Base.AutoCompleteTextView"/>
+    <style name="Widget.AppCompat.Light.Base.ActionBar" parent="Widget.AppCompat.Base.ActionBar">
+        <item name="background">@drawable/abc_ab_transparent_light_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_transparent_light_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_transparent_light_holo</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.Light.ActionButton.Overflow</item>
+        <item name="progressBarStyle">@style/Widget.AppCompat.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.AppCompat.ProgressBar</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.Solid" parent="Widget.AppCompat.Light.Base.ActionBar">
+        <item name="background">@drawable/abc_ab_solid_light_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_solid_light_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_solid_light_holo</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.Solid.Inverse" parent="Widget.AppCompat.Base.ActionBar.Solid">
+        <item name="titleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse</item>
+        <item name="subtitleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabBar" parent="Widget.AppCompat.Base.ActionBar.TabBar"/>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabBar.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabBar"/>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabText" parent="Widget.AppCompat.Base.ActionBar.TabText"/>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabText.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabText">
+        <item name="android:textColor">?android:attr/textColorPrimaryInverseDisableOnly</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabView" parent="Widget.AppCompat.Base.ActionBar.TabView"/>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabView.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabView"/>
+    <style name="Widget.AppCompat.Light.Base.ActionButton" parent="Widget.AppCompat.Base.ActionButton"/>
+    <style name="Widget.AppCompat.Light.Base.ActionButton.CloseMode" parent="Widget.AppCompat.Light.Base.ActionButton"/>
+    <style name="Widget.AppCompat.Light.Base.ActionButton.Overflow" parent="Widget.AppCompat.Light.Base.ActionButton">
+        <item name="android:src">@drawable/abc_ic_menu_moreoverflow_normal_holo_light</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ActionMode.Inverse" parent="Widget.AppCompat.Base.ActionMode">
+        <item name="titleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse</item>
+        <item name="subtitleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionMode.Subtitle.Inverse</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ActivityChooserView" parent="Widget.AppCompat.Base.ActivityChooserView">
+        <item name="android:background">@drawable/abc_ab_share_pack_holo_light</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.AutoCompleteTextView" parent="android:Widget.AutoCompleteTextView">
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_light</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.DropDownItem.Spinner" parent="Widget.AppCompat.Base.DropDownItem.Spinner"/>
+    <style name="Widget.AppCompat.Light.Base.ListPopupWindow" parent="">
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_light</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ListView.DropDown" parent="android:Widget.ListView">
+        <item name="android:listSelector">@drawable/abc_list_selector_holo_light</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.PopupMenu" parent="@style/Widget.AppCompat.Light.Base.ListPopupWindow"/>
+    <style name="Widget.AppCompat.Light.Base.Spinner" parent="Widget.AppCompat.Base.Spinner">
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_light</item>
+        <item name="android:background">@drawable/abc_spinner_ab_holo_light</item>
+    </style>
+    <style name="Widget.AppCompat.Light.DropDownItem.Spinner" parent="Widget.AppCompat.Light.Base.DropDownItem.Spinner"/>
+    <style name="Widget.AppCompat.Light.ListPopupWindow" parent="Widget.AppCompat.Light.Base.ListPopupWindow"/>
+    <style name="Widget.AppCompat.Light.ListView.DropDown" parent="Widget.AppCompat.Light.Base.ListView.DropDown"/>
+    <style name="Widget.AppCompat.Light.PopupMenu" parent="Widget.AppCompat.Light.Base.PopupMenu"/>
+    <style name="Widget.AppCompat.Light.Spinner.DropDown.ActionBar" parent="Widget.AppCompat.Light.Base.Spinner"/>
+    <style name="Widget.AppCompat.ListPopupWindow" parent="Widget.AppCompat.Base.ListPopupWindow"/>
+    <style name="Widget.AppCompat.ListView.DropDown" parent="Widget.AppCompat.Base.ListView.DropDown"/>
+    <style name="Widget.AppCompat.ListView.Menu" parent="Widget.AppCompat.Base.ListView.Menu"/>
+    <style name="Widget.AppCompat.PopupMenu" parent="Widget.AppCompat.Base.PopupMenu"/>
+    <style name="Widget.AppCompat.ProgressBar" parent="Widget.AppCompat.Base.ProgressBar"/>
+    <style name="Widget.AppCompat.ProgressBar.Horizontal" parent="Widget.AppCompat.Base.ProgressBar.Horizontal"/>
+    <style name="Widget.AppCompat.Spinner.DropDown.ActionBar" parent="Widget.AppCompat.Base.Spinner"/>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="splashScreenTheme" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/ic_kt</item>
+    </style>
+</resources>

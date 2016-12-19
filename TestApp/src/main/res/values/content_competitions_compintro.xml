@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- TAGS SHOULD BE SEPARATED BY SPACES-->
+
+<!-- LINKS IN THE BODY TEXT SHOULD BE FORMATTED AS
+    &lt;a href="ADDRESS">NAME&lt;/a> -->
+<!-- LINE BREAKS SHOULD BE FORMATTED AS
+    &lt;br> -->
+
+<resources>
+    <string-array name="comp_intro">
+        <item>fragment_pager_item_no_image</item>
+        <item>Introduction to the Competition</item>
+        <item>This is it. Six weeks (and possibly more) have prepared you and your robot, and it all comes down to the Competition.
+            However, in order to arrive to the tournament feeling more ready than ever, there are a few things you may have to prepare
+            for first. Now depending on which competition system your region follows (Regional or District Events), some rules for the
+            rankings and qualifying spots are different, but for the most part, ideas stay the same no matter what system your region runs.
+            This guide will give you everything you need to know for those, provided you also give the game manual for that year an in-depth
+            read. Generally speaking, competitions can be divided into three “main parts,” that are very distinct from one another:\n\n
+            Preparation\n\nQualifying Matches\n\nElimination Matches\n\nDuring your 2-3 day competition, each of these stages are equally
+            important to your team’s success, and it is critical that you know what to expect going in. Each of these parts have a
+            special section devoted to them, with sub-sections highlighting the differences between Regional and District events
+            to give an in-depth explanation of everything a team needs to know. Finally, an explanation of competition structure
+            and the different levels of competition procession all the way to the World Championships is provided.
+</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="regional_competitions">
+        <item>fragment_pager_item_no_image</item>
+        <item>Regional Competitions</item>
+
+        <item>
+During your three-day competition, this “preparation” stage generally takes up the entire first day.
+            Typically a Thursday, this day can be thought of as a “prep day.” There are several key events that a team should
+            be prepared for on the first day, both related and unrelated to your robot. Here is a quick list of things to remember
+            for the preparation stage:\n\n
+Attach any last-minute mechanisms quickly and efficiently.\n
+Organize your pit so you don’t have to scramble to find tools or parts.\n
+Test to make sure everything works before inspections.\n
+Organize your team to make inspections run smoothly.\n
+Be prepared to change something about your robot.\n
+Use this day to pit scout (See Strategy section).\n
+NEVER miss a practice match unless absolutely necessary!\n
+Use the open practice field to your advantage.\n
+Always be on your best behavior; Judges are everywhere, even on Thursdays.\n\n
+
+
+First of all, your robot needs to be legal. In order to insure that happens, read the FRC Inspection Checklist very carefully
+            (it often changes between years, so look out!). Often times, teams will arrive at competition having seldom weighed
+            or measured their robot, which forces them to either remove mechanisms or sacrifice the structural integrity of their
+            design. This can be devastating, especially to newer teams. Whether you’re a veteran or rookie team, it should be top
+            priority to examine the checklist before competition. Then when you finally get to the front of the inspection line,
+            the volunteer can check you off quickly, and you can be on your way to the practice field!\n\n
+
+Sometimes you may encounter unforeseen weight problems or frame perimeter issues (these two are the most common).
+            This is why your Pit Crew needs to be ready. If you ever run into weight issues, here are some quick fixes
+            that may help your team:\n\n
+
+Take off decorative materials (LED’s, stuffed animals, etc.)\n
+Replace fancy side panels with lighter equivalents (paper/cardboard)\n
+Use a Dremel or drill to cut holes or “swiss cheese” non-load-bearing metal\n
+Replace wheels with lighter types that still serve their purpose.\n\n
+
+Having an organized and clean pit is vital to efficiency. Every minute you waste trying to find the
+            correct size wrench is time taken from your practice driving! This brings us to the next
+            step in the preparation day, which is to use the practice field and your scheduled practice
+            matches to get to know the field. Chances are, the field will differ from your workspace equivalent.
+            It is important to discover these discrepancies the day before qualifying matches, just in case they
+            affect the strategy or capabilities of your robot. Additionally, practicing pre-match tasks
+            (lining up for autonomous, setting up the driver station, etc) familiarizing yourself with
+            the experience behind the controls in a real-life setting is invaluable, especially to those
+            teams who are unable to have extensive driver practice before competition.\n\n
+
+Finally, this preparation day is just as important for those who aren’t a part of the pit
+            crew or drive team. This is the perfect time to perform pit scouting, or to even
+            watch practice matches and get to know the robots. For more details about pit scouting, see the
+            Strategy section. To summarize, you send out team members to gather information directly from the
+            members of other teams and take notes on their physical robots, rather than their performance. For those
+            not participating in mechanical or scouting roles, it is important to keep up your team image. As previously mentioned,
+            Judges are roaming the pits and stands at all times, and having a stands full of kids looking down at
+            their phones isn’t very exciting. Act excited! Cheer for your team during practice matches! Practice cheers,
+            dance to music, and be energized, because Judges will notice you!\n\n\n
+
+Qualifying Matches\n\n
+
+	The second portion of the competition starts the competitive matches. The energy-filled day begins with a
+            rush to the stands. If you want to make sure you get a good section for your team to cheer, be sure
+            to send a team of around six members to run into the stands and reserve a couple rows. Often times, teams
+            will get stuck with either not enough room to fit their whole team, or horrible angle that doesn’t allow them
+            to see the robots perform. Once the seating rush is over, many teams use the practice field and it is difficult
+            to get a spot. This is why the time allotted for drive practice during Thursday is so important. If your robot is
+            working and you have had ample driving practice, don’t be afraid to relax. Organize your scouters, finish any pit
+            scouting, and practice some cheers (some some sort of “Good Morning” cheer is always fun, see Team Spirit section).
+            This is the “calm before the storm,” so enjoy it. \n\n
+
+	Another event that is important to remember on Friday is the Driver’s Meeting. This is for drive teams only,
+            and is essentially a Q and A with the judges and referees. This meeting is essential to teams who have
+            questions about any aspect of their strategy and its legality. It’s better to ask an obvious question
+            in this meeting than to get penalized for it later! Go into the meeting with a list of any questions
+            you may have, and be prepared to prioritize, as the meeting is only around 15-20 minutes. At the end of
+            the driver meeting, each team receives a copy of the match schedule, which should be analyzed before Opening
+            Ceremonies. Take it back to your Pits and create a list of your matches, their times, your alliance partners,
+            who you’re against, and your alliance color. You can use this information to your advantage, so be sure to communicate
+            with your scouters throughout the day to get the most updated information!\n\n
+
+	Have your whole team attend the opening ceremonies, and if you’re in the few matches, you may
+            be required to set up your robot or queue. The first match will begin immediately after
+            Opening Ceremonies. The basic structure of a match is:\n\n\n
+Bring your robot to Queuing, which corresponds to your alliance color and number, two matches
+            before your scheduled match. You will wait here for the next match, then move to
+            the next level of Queuing. After the second match, start moving towards the field.\n\n
+Have two drive team members carry the robot onto the field and line it up for autonomous. \n\n
+Have a third member connect your team’s driver station to the field control system using the provided
+            Ethernet cable. Make sure you can connect to your robot and test your controllers to make
+            sure everything is plugged in! Then select the correct autonomous program if you have one.\n\n
+Have the fourth member move the robot cart to the designated area.\n\n
+Wait for the announcers to finish introducing the teams (when they announce your team, it’s
+            always fun to coordinate a move or gesture to give your team recognition, such as a bow or a dance move. Be creative!)\n\n
+Once the match begins (Begin in 3… 2… 1… GO!), stand behind the white driver station line
+            until the autonomous period ends and the teleoperated period begins. In FRC,
+            there is no delay between autonomous and teleop, so be prepared to start driving immediately!\n\n
+After the match has completed, wait until the referees deem it acceptable to remove your robots
+            from the field. Have one team member retrieve your cart, one disconnect the driver station, and two lift it off the field.\n\n
+Take the robot back to your pit, assess any damage or malfunctions, and prepare to repeat the cycle!\n\n\n
+
+	It’s also important to know how the ranking system works at a competition during the qualifying
+            rounds. The whole system works off of “Ranking Points,” abbreviated to “RP.” \n\n\n
+A win in a match awards each team on the winning alliance Two (2) RP\n\n
+A tie awards each team on both alliances One (1) RP\n\n
+A loss yields Zero (0) RP\n\n\n
+Some years, the game may award extra RP to an alliance for completing certain tasks during the match
+            (for example, in 2016 FIRST Stronghold, an alliance was awarded 1 RP for breaching 4 out of
+            5 of the other team’s defenses, and 1 RP for making at least 10 shots, in addition to the Win/Loss/Tie RP)\n\n
+A team’s RP are cumulative throughout the Qualifying Matches, and they are the first determinant in a team’s ranking.
+            However, since they are based off of wins and losses, many teams often end with the same RP.
+            Because of this, tiebreakers are organized in tiers. Unfortunately, these often change
+            between years due to what the game creators believe is more difficult. For an example,
+            the 2016 FIRST Stronghold Tiebreakers were as follows:\n\n\n
+
+Ranking Points (RP)\n\n
+Cumulative Autonomous Points\n\n
+Cumulative Scaling/Challenge Points\n\n
+Cumulative Goal Points\n\n
+Cumulative Defense Crossing Points\n\n
+Record (W-L-T)\n\n\n
+
+In order to know what the ranking tiebreakers are for the current season, be sure to check the Game Manual
+            Section 5 about Tournaments. Generally speaking, a team will play around 10-12 matches in a
+            Qualifying Competition. Always send at least one member of your team to every match, even if
+            your robot is inoperable. If no one is there, your team receives 0 RP for that match and is
+            listed as a “No-Show.” Even if you find yourself ranked near the bottom, there is always a chance
+            you will get picked later on, so never lose hope! During the qualifying matches, there are a couple
+            things to remember for those who aren’t on the drive team:\n\n\n
+
+Make sure your team maintains a positive presence in the stands. Those who aren’t scouting
+            or on Pit Crew should be celebrating whenever your team is on the field, regardless
+            of performance. For more information, see the Team Spirit section.\n\n
+Always Scout, utilizing both Quantitative and Qualitative methods (see Strategy section for more
+            information on those), and most importantly communicate scouting data with the drive team.
+            You may have information about their opponents or partners that they could use in the match,
+            such as a weak spot of a good robot.\n\n
+Never leave your pits empty! Teams of judges are walking throughout the pits even
+            during matches to ask your team questions that are critical to your team’s
+            award success. You always want someone knowledgeable in non-STEM
+            and STEM departments available to interview with judges. \n\n\n
+
+	Once Friday is complete, it will be pretty clear which teams will end up being
+            ranked within the top eight, even though the qualification matches usually
+            spill into Saturday morning. It is recommended that your Strategy team gathers
+            together Friday night and builds a kind of “Pick List” of teams you want to keep
+            your eye on for the next day. Whether you are ranked highly and are looking for teams to pick
+            , or you are looking for teams to advertise yourself to if you’re ranked lower, having
+            a pick list going into the last day of competition is always a good idea. This strategy
+            meeting is where the data from Pit, Qualitative, and Quantitative scouting are all utilized.
+            See the Strategy section for more info on the usage of scouting data. \n\n\n
+
+	Entering the final day of competition, the qualification matches will continue to run for most of the morning,
+            and alliance selections usually begin during lunch. Since the pick list is already made,
+            have your scouters mostly focus on those teams. Since you are now able to filter out the teams
+            you don’t need to watch, you can have your scouting teams relax a little bit. Again, be sure to communicate
+            any important information about those teams to the strategy team! It is now more important than
+            ever to tell them if a robot that you previously thought was good breaks or has issues, because
+            it can be devastating to find out your alliance partner in eliminations can’t perform.
+            As lunch draws nearer, and qualification matches start to wind down, it’s time to settle in,
+            because Alliance Selections are about to begin, and Elimination Matches are soon to follow! \n\n\n\n
+
+Elimination Matches\n\n\n
+
+	On Saturday, the elimination matches begin after lunch normally. Alliance selection occurs before then, this is how it works: \n\n
+
+Every team sends one representative to the field. Generally you should send the person on your team who is most knowledgeable about the pick list and other teams.
+The representatives from the top eight teams stand on the field as they are announced. The announcer will give a quick explanation of the system and then ask the first seeded team who they want to pick.
+Once they have asked, a team can choose to accept or decline. Remember: if you decline an alliance, you can NOT be picked by any other team.
+Once the a team accepts an invitation, they move on to the next seeded team. If one of the teams in the top 8 is picked by another, each spot moves up and the next highest ranked team becomes an alliance captain.
+They will continue down the line until the eighth team makes their first pick. Then, they go back up the line (also known as a “snake draft”), where each team makes a second selection, starting with the eighth seed.
+By the end of selections, if your team is not picked, don’t leave! Just because your robot wasn’t picked doesn’t mean you can’t win awards or be chosen as a backup robot if another alliance’s robot breaks. Just settle in, keep answering judge questions, and have a good time watching elimination matches! Judges also look for teams acting gracious and professional when they lose too!\n\n
+
+	If you are lucky enough to participate in elimination matches, it is important to communicate with your alliance. It is no longer randomly selected, these two other teams are in it for the long haul with you. You need to formulate a strategy, suited to counter your opposing alliance’s strategy. Again, scouting information from Qualification matches comes in handy for this. However, it is not as important to scout during elimination matches, since alliances have already been selected. Just be sure to keep in touch with any major events that happen, like a robot getting destroyed or dropping connection.
+
+When the matches begin, pay attention to the schedule, and queue for matches like normal. Important to remember: NEVER take a match for granted! Even if you’re the first alliance against the eighth seed, don’t expect to win due to your rank alone. Upsets don’t only occur in Robotics, they are quite common! If you lose your first match, don’t fret. Elimination matches are played in two out of three series. All you need to do to move on is win two matches. In order to win the competition, you have to win six matches total, or three levels of eliminations. Remember, now that rankings no longer matter, the only thing that matters is getting more points than the other team, as opposed to the Ranking Points of Qualifications. Another important aspect to remember is that the first tiebreaker for elimination matches is penalties: whichever team has fewer penalties wins ties. This may seem unlikely, but when two highly skilled alliances play against each other, ties can be quite common. An example of this was the 2016 FIRST Stronghold World Championship Finals. Going into the third and final match, each alliance had one win, and the third match was a tie. However, one alliance had two minor penalties, which cost them the Championship. Besides these nuances, elimination matches run identically to Qualification matches, and follow the same structure as described above. Once the elimination matches have completed, and your team is either sitting in the stands or celebrating a competition win, prepare yourselves for the Award Ceremony.
+
+The Award Ceremony begins shortly after the final elimination matches, and you should aim to have your entire team in the stands! Prepare for about two hours of standing and clapping and cheering, because it’s common courtesy to cheer for every team’s victory. The awards you can win are explained in more detail in the Game Manual Section 6, so look there for more information on them. If your team is called down to the field, walk down the designated path, receive your trophy, and shake the judges’ and referees’ hands, then sit back down and listen for the next award. Once the Award Ceremony is complete, and Closing Ceremonies finishes, you are free to go! Pack up your pits, re-bag your robot, and prepare for your next competition if you have one! Remember: whether or not you qualify for the next round of competition, enjoy the experience of this one! There is nothing else in the world like a robotics competition, so be sure to take it all in.
+\n\n\n\n
+Higher Levels of Competition\n\n\n
+
+	If your area or state competes using a Regional system, qualifying off of a Regional Competition assures you a spot in the World Championships!
+            There are two World Championship competitions, so be sure you know which one you will
+            attend. Here are the locations for the next few years:\n\n\n
+2017: North Championship in St. Louis, MO and South Championship in Houston, TX\n\n
+2018+: North Championship in Detroit, MI and South Championship in Houston, TX\n\n\n
+For more information on which championship your team should attend, look up your team information on www.thebluealliance.com or follow this link to the map:
+http://www.firstinspires.org/sites/default/files/uploads/championship/first-championship-maps-2017-2018.pdf#page=2\n\n
+
+	World championships runs the same as normal competitions, except there are four divisions at each Championship. These divisions work the same as regular competitions, and then the winning alliances of each division play against each other on what is known as the Einstein Elimination rounds. Just having a chance to compete in the World Championships is a unique experience, and you are very lucky if you get to see it firsthand! Always remember to have fun regardless of your performance, because after everything, FIRST is more than robots.
+</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="chairmans_writing">
+        <item>fragment_pager_item_no_image</item>
+        <item>The Written Portion</item>
+        <item>The written piece of Chairman’s has two main parts, the essay and the executive
+            summary. The essay is a 10,000 character written explanation of how your team spreads
+            the mission of FIRST. At first 10,000 characters can seem like a lot, but you will most
+            likely have to shrink your essay in order to meet these requirements. While writing your
+            essay do not worry about word count. You will be better off writing your essay and them
+            combining and removing sentences. It\'s important that you start your essay early that way
+            your speech and video can play off of it.
+            &lt;br>The executive summary is a series of questions that you will have to answer. The
+            majority of the questions have a 500 character word limit. You will also include your
+            team name, number and sponsors. These short answers have to do with how your team has
+            spread FIRST, and how FIRST has impacted your team. Along with the written pieces, you
+            will need to submit four photos at the same time. These photos are to show judges how
+            you’ve spread FIRST. These four photos can be no more than 1.0 MB of memory.</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="chairmans_writingSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>La Porción  Escrita</item>
+        <item>La porción escrita del Chairman’s tiene dos partes, el ensayo y el Executive Summary. El
+ensayo es una explicación de 10,000 caracteres sobre como su equipo comparte la misión
+de FIRST. Al principio, 10,000 caracteres puede parecer mucho, pero la mayoría de ustedes
+va a necesitar reducir su ensayo para cumplir el requerimiento. Cuando estén escribiendo su
+ensayo, no se preocupen por la cuenta de caracteres. Les conviene primero escribir el
+ensayo y luego combinar y quitar oraciones. Es importante que empiecen en ensayo con
+tiempo, así pueden basar su presentación y su video sobre el ensayo. El Executive Summary
+es una serie de preguntas que necesitaran contestar. La mayoría de las preguntas tienen un
+límite de 500 caracteres. También van a incluir el nombre de su equipo, su numero y sus
+patrocinadores. Estas respuestas cortas tienen que ver con como su equipo ha difundido a
+FIRST, y como FIRST ha impactado a su equipo. Junto con los componentes escritos, van a
+tener que mandar cuatro fotos al mismo tiempo. Estas fotos sirven para mostrarle a los
+jueces como han difundido a FIRST. Las cuatro fotos no deben ocupar mas de 1.0 MB de
+memoria.</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="chairmans_speech">
+        <item>fragment_pager_item_no_image</item>
+        <item>The Speech</item>
+        <item>Although teams can probably talk about how they spread the mission of FIRST for hours,
+            teams are only given a short five minute time period to tell judges all about how they
+            impact their community. After the five minute presentation time, teams will have a five
+            minute question answer session. Teams must send in up to three representatives - members
+            or mentors.
+            &lt;br>&lt;br>The Chairman\'s presentation can seem very scary but here are some tips to
+            keep in mind while creating and performing your presentation:
+            &lt;br>&lt;br>&#8226;\tDon\'t let the judges emotions get to you. They have had long days of
+            speeches and are probably very tired and bored. Don\'t let this get to you while presenting.
+            &lt;br>&lt;br>&#8226;\tThe room may be very small; you should bring only what is necessary.
+            &lt;br>&lt;br>&#8226;\tExactly how much time you have depends on the judges. Some judges may start
+            the clock when you open the door.</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="chairmans_speechSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>El Discurso</item>
+        <item>A pesar de que los equipos son capaces de hablar por horas sobre como han difundido la
+misión de FIRST, sólo pueden hablar por cinco minutos con los jueces sobre como han
+impactado a su comunidad. Después de los cinco minutos de presentación, los equipos
+tendrán cinco minutos para una sesión de pregunta y respuesta. Los equipos pueden mandar
+hasta tres representantes - tanto alumnos como mentores. La presentación del Chairman’s
+puede provocar algo de miedo, pero aquí hay un par de consejos para tomar en cuenta
+durante su presentación: No dejen que las emociones de los jueces los afecten. Han tenido
+un día muy pesado y muy probablemente estén cansados y aburridos. No dejen que esto les
+afecte mientras presentan. El cuarto puede ser pequeño; solo lleven lo necesario.
+Exactamente cuanto tiempo les queda depende de los jueces. Algunos jueces empiezan a
+contar en cuanto abran la puerta.</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="chairmans_video">
+        <item>fragment_pager_item_no_image</item>
+        <item>The Video</item>
+        <item>The Chairman\'s video can be no longer than three minutes nor shorter than one. The
+            Chairman\'s video is mandatory in order to compete for the award. Before judges make
+            their final decision as to who wins between a few final teams, they watch these videos.
+            The video is very important because it is the last thing the judges will remember. When
+            a team wins, the video is broadcasted to the rest of the teams on the big screen at regional
+            or district events.</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="chairmans_videoSpanish">
+        <item>fragment_pager_item_no_image</item>
+        <item>El Video</item>
+        <item>El video del Chairman’s no debe durar más de tres minutos ni menos de uno. El video del
+Chairman’s es obligatorio para poder concursar por el premio. Antes de que los jueces tomen
+la decisión final, ven los videos. El video es importante porque es la última cosa que los
+jueces van a recordar. Cuando un equipo gana, el video es mostrado al resto de los equipos
+en la pantalla grande en el evento regional o distrital.</item>
+        <item></item>
+    </string-array>
+</resources>

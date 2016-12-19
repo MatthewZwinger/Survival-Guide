@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Matth/Documents/kingtec-survival-guide-7b970b282d47/TestApp/src/main/res/values-v20/styles.xml -->
+    <eat-comment/>
+    <style name="splashScreenTheme" parent="@android:style/Theme.DeviceDefault.Dialog.NoActionBar">
+        <item name="android:windowBackground">@drawable/ic_kt</item>
+    </style>
+</resources>

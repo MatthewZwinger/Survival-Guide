@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Matth\Documents\kingtec-survival-guide-7b970b282d47\TestApp\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\Matth\Documents\kingtec-survival-guide-7b970b282d47\TestApp\build\intermediates\pre-dexed\debug\classes-6c57dc38ba2e2b8407d046ead67e833b76a94180.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matth\Documents\kingtec-survival-guide-7b970b282d47\TestApp\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="C:\Users\Matth\Documents\kingtec-survival-guide-7b970b282d47\TestApp\build\intermediates\pre-dexed\debug\classes-b8b3e3adc3165b4e0385c52a1d263b97d33cfbec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matth\Documents\kingtec-survival-guide-7b970b282d47\TestApp\build\intermediates\exploded-aar\com.android.support\support-v13\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56">
+        <dex dex="C:\Users\Matth\Documents\kingtec-survival-guide-7b970b282d47\TestApp\build\intermediates\pre-dexed\debug\classes-a2507f437e9c48b4a80fc700b4657d2404efae4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matth\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\Matth\Documents\kingtec-survival-guide-7b970b282d47\TestApp\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-ea89c1908f7dd0036bde9f40ad2f568568b2073b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matth\Documents\kingtec-survival-guide-7b970b282d47\TestApp\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\Matth\Documents\kingtec-survival-guide-7b970b282d47\TestApp\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-34c09cf912a46564bdb6cf9496b8fd6ac50b0945.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matth\.gradle\caches\modules-2\files-2.1\com.github.frankiesardo\icepick\2.3.6\c67092eec40738c16bdc5b9255a59c295cc16219\icepick-2.3.6.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c67092eec40738c16bdc5b9255a59c295cc16219">
+        <dex dex="C:\Users\Matth\Documents\kingtec-survival-guide-7b970b282d47\TestApp\build\intermediates\pre-dexed\debug\icepick-2.3.6-ecf6db8738d4d5e9fb44116ce158e7d855361bdc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matth\Documents\kingtec-survival-guide-7b970b282d47\TestApp\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\Matth\Documents\kingtec-survival-guide-7b970b282d47\TestApp\build\intermediates\pre-dexed\debug\classes-2a82cb27f1a38980472f7a35fb4ab327d66c3fef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matth\Documents\kingtec-survival-guide-7b970b282d47\TestApp\build\intermediates\exploded-aar\com.android.support\support-v13\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33">
+        <dex dex="C:\Users\Matth\Documents\kingtec-survival-guide-7b970b282d47\TestApp\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-70a23fbd30827446309e36ffad8cb397bd46c638.jar" />
+    </item>
+
+</items>

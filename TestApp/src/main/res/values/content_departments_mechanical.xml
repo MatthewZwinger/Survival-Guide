@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- TAGS SHOULD BE SEPARATED BY SPACES-->
+
+<!-- LINKS IN THE BODY TEXT SHOULD BE FORMATTED AS
+    &lt;a href="ADDRESS">NAME&lt;/a> -->
+<!-- LINE BREAKS SHOULD BE FORMATTED AS
+    &lt;br> -->
+
+<resources>
+
+    <string-array name="contentname1">
+        <item>fragment_pager_item_no_image</item>
+        <item>contentnamegoeshere</item>
+        <item>contentName1 Lorem ipsum dolor sit amet, eros feugiat accommodare pro in, duo an vocent blandit vulputate. Maiorum ancillae appetere ei est. Sed eu elit ferri tincidunt, meliore veritus per ea. Ea est nihil noster lobortis, fierent imperdiet mel ut, in melius viderer has.
+Aeterno recteque sit id. Sit cu veniam omittam, ubique scripta eleifend ut nec. Dicant insolens incorrupte in per, eos et vide aeque insolens. Gubergren conclusionemque pro at, id per solum sadipscing, et nominavi scripserit nec.
+Cu nibh eligendi accommodare nec, cu suscipit delectus qui. Dicam iuvaret et mea. An everti veritus constituto eam, ne lucilius expetendis eloquentiam has, id elit dolor scaevola per. Quo labores aliquando no, sed te vide impedit prodesset. Lorem mucius labores mei ut, homero adversarium at sea. Ea sea quando debitis phaedrum, quodsi fabulas disputando ne duo, nisl populo inimicus usu at.
+Augue accusam ad vix, te quaeque maiorum torquatos duo, minim democritum eum et. Cu feugait placerat vel, nobis graeci recteque nec id. Harum mundi interesset pri id. Quo ea diam scripta patrioque, an mea accusam consequat. Ea etiam appetere sed, cu viderer splendide quo. Ut vel convenire deterruisset, gubergren scribentur his id.
+Has ei vidit labore vidisse. Vel ut quod harum. Ea pri blandit legendos, ius graeci impetus ornatus cu. Ne zril veritus deserunt has. At laudem accusam cotidieque qui.</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="contentname1s">
+        <item>fragment_pager_item_no_image</item>
+        <item>contentnamegoeshere</item>
+        <item>Sacontentname1sliendo del Kickoff, lo primero que su equipo tiene que hacer es empezar con el brainstorming.
+Ninguna idea es mala, pues aquí es el momento para pensar en todo tipo de diseño, por muy loco
+que sea. Durante este tiempo, deben empezar a planear una estrategia y decidir cómo y qué
+quieren que haga su robot.</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="contentname2">
+        <item>fragment_pager_item_no_image</item>
+        <item>contentnamegoeshere</item>
+        <item>contentname2Lorem ipsum dolor sit amet, eros feugiat accommodare pro in, duo an vocent blandit vulputate. Maiorum ancillae appetere ei est. Sed eu elit ferri tincidunt, meliore veritus per ea. Ea est nihil noster lobortis, fierent imperdiet mel ut, in melius viderer has.
+Aeterno recteque sit id. Sit cu veniam omittam, ubique scripta eleifend ut nec. Dicant insolens incorrupte in per, eos et vide aeque insolens. Gubergren conclusionemque pro at, id per solum sadipscing, et nominavi scripserit nec.
+Cu nibh eligendi accommodare nec, cu suscipit delectus qui. Dicam iuvaret et mea. An everti veritus constituto eam, ne lucilius expetendis eloquentiam has, id elit dolor scaevola per. Quo labores aliquando no, sed te vide impedit prodesset. Lorem mucius labores mei ut, homero adversarium at sea. Ea sea quando debitis phaedrum, quodsi fabulas disputando ne duo, nisl populo inimicus usu at.
+Augue accusam ad vix, te quaeque maiorum torquatos duo, minim democritum eum et. Cu feugait placerat vel, nobis graeci recteque nec id. Harum mundi interesset pri id. Quo ea diam scripta patrioque, an mea accusam consequat. Ea etiam appetere sed, cu viderer splendide quo. Ut vel convenire deterruisset, gubergren scribentur his id.
+Has ei vidit labore vidisse. Vel ut quod harum. Ea pri blandit legendos, ius graeci impetus ornatus cu. Ne zril veritus deserunt has. At laudem accusam cotidieque qui.</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="contentname2s">
+        <item>fragment_pager_item_no_image</item>
+        <item>contentnamegoeshere</item>
+        <item>contentname2sAntes de pensar como lograr que el robot pueda llevar a cabo el reto del juego, es importante
+decidir que es lo que quiere lograr el equipo. Van a necesitar una plan de acción antes de empezar a
+diseñar su robot. Para poder diseñar el robot basándose en la mejor estrategia, KING TeC organiza
+una simulación del juego, utilizando jugadores humanos en vez de robots, inmediatamente
+después del Kickoff. La simulación nos ayuda a encontrar estrategias en las cuales no habríamos
+pensado.</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="contentname3">
+        <item>fragment_pager_item_no_image</item>
+        <item>contentnamegoeshere</item>
+        <item>contentname3Lorem ipsum dolor sit amet, eros feugiat accommodare pro in, duo an vocent blandit vulputate. Maiorum ancillae appetere ei est. Sed eu elit ferri tincidunt, meliore veritus per ea. Ea est nihil noster lobortis, fierent imperdiet mel ut, in melius viderer has.
+Aeterno recteque sit id. Sit cu veniam omittam, ubique scripta eleifend ut nec. Dicant insolens incorrupte in per, eos et vide aeque insolens. Gubergren conclusionemque pro at, id per solum sadipscing, et nominavi scripserit nec.
+Cu nibh eligendi accommodare nec, cu suscipit delectus qui. Dicam iuvaret et mea. An everti veritus constituto eam, ne lucilius expetendis eloquentiam has, id elit dolor scaevola per. Quo labores aliquando no, sed te vide impedit prodesset. Lorem mucius labores mei ut, homero adversarium at sea. Ea sea quando debitis phaedrum, quodsi fabulas disputando ne duo, nisl populo inimicus usu at.
+Augue accusam ad vix, te quaeque maiorum torquatos duo, minim democritum eum et. Cu feugait placerat vel, nobis graeci recteque nec id. Harum mundi interesset pri id. Quo ea diam scripta patrioque, an mea accusam consequat. Ea etiam appetere sed, cu viderer splendide quo. Ut vel convenire deterruisset, gubergren scribentur his id.
+Has ei vidit labore vidisse. Vel ut quod harum. Ea pri blandit legendos, ius graeci impetus ornatus cu. Ne zril veritus deserunt has. At laudem accusam cotidieque qui.</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="contentname3s">
+        <item>fragment_pager_item_no_image</item>
+        <item>contentnamegoeshere</item>
+        <item>contentname3sEntender las reglas del nuevo juego es esencial para el proceso de diseño. Todos los miembros del
+equipo deberían leer lar reglas del juego por lo menos una vez, y nombrar un Rule Master (Amo de
+las Reglas), alguien en su equipo a quien puedan usar como referencia cuando surgen una dudas
+sobre las reglas.</item>
+        <item></item>
+    </string-array>
+</resources>
